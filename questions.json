@@ -1,0 +1,5713 @@
+{
+  "meta": {
+    "version": 2,
+    "nextChapterId": 24,
+    "nextQuestionId": 97,
+    "nextImageId": 188
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "name": "Introducere în anatomie și fiziologie",
+      "questions": [
+        {
+          "id": 16,
+          "type": "question",
+          "question": "Alegeți răspunsul/răspunsurile corect/corecte referitor la planurile și cavitățile corpului uman:",
+          "answers": [
+            {
+              "text": "canalul rahidian adăpostește măduva osoasă",
+              "correct": false
+            },
+            {
+              "text": "cavitatea pleurală adăpostește inima",
+              "correct": false
+            },
+            {
+              "text": "planul transversal este perpendicular pe planul coronal",
+              "correct": true
+            },
+            {
+              "text": "un plan sagital împarte corpul într-o parte anterioară și una posterioară",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 5
+        },
+        {
+          "id": 48,
+          "type": "question",
+          "question": "Alegeți răspunsul/răspunsurile corect/corecte referitor la cavitățile și regiunile corpului uman:",
+          "answers": [
+            {
+              "text": "cavitatea peritoneală este separată de cavitatea toracică",
+              "correct": true
+            },
+            {
+              "text": "regiunea epigastrică se află în centrul abdomenului",
+              "correct": false
+            },
+            {
+              "text": "cavitatea craniană adăpostește encefalul",
+              "correct": true
+            },
+            {
+              "text": "vezica urinară este conținută de subdiviziunea abdominală a cavității peritoneale",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 51,
+          "type": "question",
+          "question": "Despre membranele mucoase este adevărat că:",
+          "answers": [
+            {
+              "text": "acoperă suprafața viscerelor și căptușesc cavitățile organismului",
+              "correct": false
+            },
+            {
+              "text": "la nivelul stomacului, mucoasa prezintă cripte profunde",
+              "correct": true
+            },
+            {
+              "text": "la nivelul stomacului, mucoasa prezintă un strat muscular suplimentar dispus oblic",
+              "correct": false
+            },
+            {
+              "text": "la nivelul ileonului, suprafața mucoasei este crescută datorită prezenței vilozităților intestinale",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-1-img-1774374012822-hly50q.PNG",
+          "explanation": "pag 2",
+          "collapsed": true
+        },
+        {
+          "id": 2,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-1-img-1774374045065-p201s0.PNG",
+          "explanation": "pag 6",
+          "collapsed": true
+        },
+        {
+          "id": 3,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-1-img-1774374051803-x092xj.PNG",
+          "explanation": "pag 8",
+          "collapsed": true
+        },
+        {
+          "id": 4,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-1-img-1774374060939-zdol3t.PNG",
+          "explanation": "pag 9",
+          "collapsed": true
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-1-img-1774374081776-n8nuwx.PNG",
+          "explanation": "pag 10",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 1
+        },
+        {
+          "type": "image",
+          "id": 2
+        },
+        {
+          "type": "image",
+          "id": 3
+        },
+        {
+          "type": "image",
+          "id": 4
+        },
+        {
+          "type": "image",
+          "id": 5
+        },
+        {
+          "type": "question",
+          "id": 16
+        },
+        {
+          "type": "question",
+          "id": 48
+        },
+        {
+          "type": "question",
+          "id": 51
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bazele chimice ale anatomiei și fiziologiei",
+      "questions": [
+        {
+          "id": 69,
+          "type": "question",
+          "question": "În procesul de sinteză a proteinelor:",
+          "answers": [
+            {
+              "text": "pentru fiecare aminoacid adăugat în structura proteinei se consumă o moleculă de apă",
+              "correct": false
+            },
+            {
+              "text": "secvența de legare a aminoacizilor este determinată de codul genetic",
+              "correct": true
+            },
+            {
+              "text": "între moleculele de aminoacizi se formează legături chimice puternice",
+              "correct": true
+            },
+            {
+              "text": "aminoacizii se leagă între ei prin înlăturarea hidroxilului din gruparea amino",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        },
+        {
+          "id": 74,
+          "type": "question",
+          "question": "Despre structura chimică a lipidelor este adevărat că:",
+          "answers": [
+            {
+              "text": "molecula de glicerol conține trei grupări hidroxil",
+              "correct": true
+            },
+            {
+              "text": "prezența de legături duble între atomii de carbon din moleculă definește acizii grași nesaturați",
+              "correct": true
+            },
+            {
+              "text": "acidul gras cu cel mai scurt lanț conține trei atomi de carbon",
+              "correct": false
+            },
+            {
+              "text": "acizii grași se leagă de molecula de glicerol printr-o legătură chimică slabă",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 86,
+          "type": "question",
+          "question": "Despre glucide este adevărat că:",
+          "answers": [
+            {
+              "text": "galactoza și fructoza sunt izomeri",
+              "correct": true
+            },
+            {
+              "text": "celuloza este o polizaharidă ușor digerabilă de către amilaza pancreatică",
+              "correct": false
+            },
+            {
+              "text": "molecula de lactoză conține 22 de atomi de hidrogen",
+              "correct": true
+            },
+            {
+              "text": "în structura glicogenului, unitățile glucidice se leagă în mod asemănător cu cele din molecula de amidon",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 92,
+          "type": "question",
+          "question": "Spre deosebire de acidul ribonucleic, acidul dezoxiribonucleic:",
+          "answers": [
+            {
+              "text": "nu se găsește liber în citoplasma celulelor",
+              "correct": true
+            },
+            {
+              "text": "prezintă în structură o moleculă pirimidinică numită uracil",
+              "correct": false
+            },
+            {
+              "text": "conține grupări fosfat ce leagă zaharurile între ele",
+              "correct": false
+            },
+            {
+              "text": "conține o pentoză numită riboză",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        }
+      ],
+      "images": [],
+      "order": [
+        {
+          "type": "question",
+          "id": 69
+        },
+        {
+          "type": "question",
+          "id": 74
+        },
+        {
+          "type": "question",
+          "id": 86
+        },
+        {
+          "type": "question",
+          "id": 92
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Celulele și fiziologia celulară",
+      "questions": [
+        {
+          "id": 5,
+          "type": "question",
+          "question": "Hematiile obținut de la o pacientă se împart în mod egal în două eprubete care conțin un volum egal de soluție de sare (NaCl) cu concentrație de 0,2% și respectiv 1%. Referitor la aceste probe este adevărat că:",
+          "answers": [
+            {
+              "text": "eritrocitele puse în soluția hipertonă se vor zbârci",
+              "correct": false
+            },
+            {
+              "text": "având în vedere hemoliza eritrocitelor puse în soluția de sare de 1%, în eprubeta respectivă va crește concentrația hemoglobinei",
+              "correct": false
+            },
+            {
+              "text": "prin membrana eritrocitelor puse în soluția de sare de 0,2% nu se produce mișcarea moleculelor de apă",
+              "correct": false
+            },
+            {
+              "text": "în cele două eprubete avem aceeași cantitate de potasiu",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 4
+        },
+        {
+          "id": 64,
+          "type": "question",
+          "question": "Referitor la procesele de translație și transcripție este adevărat că:",
+          "answers": [
+            {
+              "text": "ARN-polimeraza este o enzimă implicată în procesul de transcripție",
+              "correct": true
+            },
+            {
+              "text": "prin transcripție, dacă în ADN există uracil, în ARN este inserată timină",
+              "correct": false
+            },
+            {
+              "text": "în timpul translației are loc sinteza moleculei de ARNm pe baza complementarității bazelor azotate",
+              "correct": false
+            },
+            {
+              "text": "translația începe cu atașarea moleculei de ARN mesager la ribozom",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 3
+        }
+      ],
+      "images": [
+        {
+          "id": 6,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-3-img-1774374168241-z833bq.PNG",
+          "explanation": "pag 46",
+          "collapsed": true
+        },
+        {
+          "id": 7,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-3-img-1774374226009-m0k4nq.PNG",
+          "explanation": "pag 49",
+          "collapsed": true
+        },
+        {
+          "id": 8,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-3-img-1774374239336-dr9sk4.PNG",
+          "explanation": "pag 49",
+          "collapsed": true
+        },
+        {
+          "id": 9,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-3-img-1774374249532-t3cql5.PNG",
+          "explanation": "pag 50",
+          "collapsed": true
+        },
+        {
+          "id": 10,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-3-img-1774374428032-txs248.PNG",
+          "explanation": "pag 51",
+          "collapsed": true
+        },
+        {
+          "id": 11,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-3-img-1774374446029-lqnbpw.PNG",
+          "explanation": "pag 54",
+          "collapsed": true
+        },
+        {
+          "id": 12,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-3-img-1774374659718-z20f9f.PNG",
+          "explanation": "pag 56",
+          "collapsed": true
+        },
+        {
+          "id": 13,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-3-img-1774374848939-i4nndu.PNG",
+          "explanation": "pag 57",
+          "collapsed": true
+        },
+        {
+          "id": 14,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-3-img-1774375524616-bm1wpo.PNG",
+          "explanation": "pag 60",
+          "collapsed": true
+        },
+        {
+          "id": 15,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-3-img-1774375539884-tz5z1w.PNG",
+          "explanation": "pag 61",
+          "collapsed": true
+        },
+        {
+          "id": 16,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-3-img-1774375557423-rqvoqs.PNG",
+          "explanation": "pag 62",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 6
+        },
+        {
+          "type": "image",
+          "id": 7
+        },
+        {
+          "type": "image",
+          "id": 8
+        },
+        {
+          "type": "image",
+          "id": 9
+        },
+        {
+          "type": "image",
+          "id": 10
+        },
+        {
+          "type": "image",
+          "id": 11
+        },
+        {
+          "type": "image",
+          "id": 12
+        },
+        {
+          "type": "image",
+          "id": 13
+        },
+        {
+          "type": "image",
+          "id": 14
+        },
+        {
+          "type": "image",
+          "id": 15
+        },
+        {
+          "type": "image",
+          "id": 16
+        },
+        {
+          "type": "question",
+          "id": 5
+        },
+        {
+          "type": "question",
+          "id": 64
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Țesuturile",
+      "questions": [
+        {
+          "id": 14,
+          "type": "question",
+          "question": "Orificiul extern al uretrei masculine este acoperit de:",
+          "answers": [
+            {
+              "text": "epiteliu pseudostratificat cilindric",
+              "correct": false
+            },
+            {
+              "text": "epiteliu stratificat cilindric",
+              "correct": false
+            },
+            {
+              "text": "uroteliu",
+              "correct": false
+            },
+            {
+              "text": "epiteliu stratificat pavimentos",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 3
+        },
+        {
+          "id": 29,
+          "type": "question",
+          "question": "Referitor la țesutul conjunctiv elastic este adevărat că:",
+          "answers": [
+            {
+              "text": "fibrele sale sunt dispuse într-o substanță fundamentală lichidă",
+              "correct": false
+            },
+            {
+              "text": "se găsește în pereții arterelor mari",
+              "correct": true
+            },
+            {
+              "text": "prezintă o rețea numită reticul, formată din fibre subțiri, delicate",
+              "correct": false
+            },
+            {
+              "text": "se găsește la nivelul ligamentelor aflate între vertebre",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 52,
+          "type": "question",
+          "question": "Selectați afirmația/afirmațiile corectă/corecte:",
+          "answers": [
+            {
+              "text": "glandele sudoripare sunt glande pluricelulare compuse",
+              "correct": false
+            },
+            {
+              "text": "foliculii ovarieni prezintă un epiteliu stratificat cubic",
+              "correct": true
+            },
+            {
+              "text": "splina conține țesut conjunctiv reticulat",
+              "correct": true
+            },
+            {
+              "text": "atașarea ligamentelor de oase se realizează prin cartilaj hialin",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 55,
+          "type": "question",
+          "question": "Referitor la desmozomi este adevărat că:",
+          "answers": [
+            {
+              "text": "sunt joncțiuni strânse ce rezultă prin cuplarea lipoproteinelor între ele",
+              "correct": false
+            },
+            {
+              "text": "filamente de cheratină ancorează glicoproteinele transmembranare",
+              "correct": true
+            },
+            {
+              "text": "lipsesc la nivelul stratului spinos al epidermului",
+              "correct": false
+            },
+            {
+              "text": "sunt prezenți la nivelul discurilor intercalare",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 58,
+          "type": "question",
+          "question": "Referitor la glandele sudoripare este adevărat că:",
+          "answers": [
+            {
+              "text": "sunt glande exocrine, pluricelulare, tubulare ramificate",
+              "correct": false
+            },
+            {
+              "text": "se găsesc și la nivelul areolei mamare, alături de glande sebacee",
+              "correct": true
+            },
+            {
+              "text": "unitatea lor secretorie este atât tubulară, cât și acinoasă",
+              "correct": false
+            },
+            {
+              "text": "la nivelul lor, aldosteronul contribuie la reglarea reabsorbției sodiului",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 96,
+          "type": "question",
+          "question": "Un țesut cu rezistență crescută, alcătuit din fibre de colagen, dispuse în fascicule subțiri, aproximativ paralele, cu aspect fibros granulos, cu o cantitate redusă de substanță fundamentală semidură:",
+          "answers": [
+            {
+              "text": "se întâlnește la nivelul aponevrozelor",
+              "correct": false
+            },
+            {
+              "text": "formează capsule ce învelesc anumite organe",
+              "correct": false
+            },
+            {
+              "text": "intră în componența amfiartrozelor",
+              "correct": true
+            },
+            {
+              "text": "reprezintă un cartilaj fibros",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 17,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-4-img-1774376089681-yw0ojg.PNG",
+          "explanation": "pag 75",
+          "collapsed": true
+        },
+        {
+          "id": 18,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-4-img-1774376108991-0amfz7.PNG",
+          "explanation": "pag 77",
+          "collapsed": true
+        },
+        {
+          "id": 19,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-4-img-1774376129896-g4phy0.PNG",
+          "explanation": "pag 80",
+          "collapsed": true
+        },
+        {
+          "id": 20,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-4-img-1774376144447-hc28th.PNG",
+          "explanation": "pag 81",
+          "collapsed": true
+        },
+        {
+          "id": 21,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-4-img-1774376220453-udq7hw.PNG",
+          "explanation": "pag 84",
+          "collapsed": true
+        },
+        {
+          "id": 22,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-4-img-1774376239435-tmbkym.PNG",
+          "explanation": "pag 86",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 17
+        },
+        {
+          "type": "image",
+          "id": 18
+        },
+        {
+          "type": "image",
+          "id": 19
+        },
+        {
+          "type": "image",
+          "id": 20
+        },
+        {
+          "type": "image",
+          "id": 21
+        },
+        {
+          "type": "image",
+          "id": 22
+        },
+        {
+          "type": "question",
+          "id": 14
+        },
+        {
+          "type": "question",
+          "id": 29
+        },
+        {
+          "type": "question",
+          "id": 52
+        },
+        {
+          "type": "question",
+          "id": 55
+        },
+        {
+          "type": "question",
+          "id": 58
+        },
+        {
+          "type": "question",
+          "id": 96
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sistemul tegumentar",
+      "questions": [
+        {
+          "id": 60,
+          "type": "question",
+          "question": "Melanina:",
+          "answers": [
+            {
+              "text": "se găsește în stratul intern al retinei și absoarbe razele de lumină",
+              "correct": false
+            },
+            {
+              "text": "este depozitată și în celule ale țesutului conjunctiv pigmentar",
+              "correct": true
+            },
+            {
+              "text": "este sintetizată numai de celulele aflate printre cheratinocitele stratului lucid al epidermului",
+              "correct": false
+            },
+            {
+              "text": "influențează ritmul nictemeral",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 23,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-5-img-1774376420832-0nldp5.PNG",
+          "explanation": "pag 98",
+          "collapsed": true
+        },
+        {
+          "id": 24,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-5-img-1774376439421-ikb55f.PNG",
+          "explanation": "pag 100",
+          "collapsed": true
+        },
+        {
+          "id": 25,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-5-img-1774376933087-zai30w.PNG",
+          "explanation": "pag 103",
+          "collapsed": true
+        },
+        {
+          "id": 26,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-5-img-1774376962585-y7ywwz.PNG",
+          "explanation": "pag 104",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 23
+        },
+        {
+          "type": "image",
+          "id": 24
+        },
+        {
+          "type": "image",
+          "id": 25
+        },
+        {
+          "type": "image",
+          "id": 26
+        },
+        {
+          "type": "question",
+          "id": 60
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Oasele și articulațiile",
+      "questions": [
+        {
+          "id": 39,
+          "type": "question",
+          "question": "Articulația sferoidală:",
+          "answers": [
+            {
+              "text": "caracterizează joncțiunea dintre osul trapez și primul metacarpian",
+              "correct": false
+            },
+            {
+              "text": "se regăsește și la nivelul umărului",
+              "correct": true
+            },
+            {
+              "text": "permite cele mai variate mișcări dintre toate articulațiile",
+              "correct": true
+            },
+            {
+              "text": "se formează între două suprafețe articulare convexe",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        },
+        {
+          "id": 41,
+          "type": "question",
+          "question": "Care dintre următoarele structuri se află la nivelul diafizei unui os lung?",
+          "answers": [
+            {
+              "text": "tuberozitatea deltoidă",
+              "correct": true
+            },
+            {
+              "text": "fosa glenoidă",
+              "correct": false
+            },
+            {
+              "text": "apofiza coronoidă",
+              "correct": false
+            },
+            {
+              "text": "tuberozitatea ischiadică",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 62,
+          "type": "question",
+          "question": "Măduva osoasă roșie:",
+          "answers": [
+            {
+              "text": "este frecvent întâlnită la nivelul periostului",
+              "correct": false
+            },
+            {
+              "text": "se găsește în oasele plate",
+              "correct": true
+            },
+            {
+              "text": "se găsește și la nivelul sternului",
+              "correct": true
+            },
+            {
+              "text": "la adult, se regăsește la nivelul diafizei humerusului",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 27,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-6-img-1774377123321-6nkumo.PNG",
+          "explanation": "pag 117",
+          "collapsed": true
+        },
+        {
+          "id": 28,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-6-img-1774377131275-oevlkh.PNG",
+          "explanation": "pag 118",
+          "collapsed": true
+        },
+        {
+          "id": 29,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-6-img-1774377142473-7qdunw.PNG",
+          "explanation": "pag 119",
+          "collapsed": true
+        },
+        {
+          "id": 30,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-6-img-1774377151851-xwq0uj.PNG",
+          "explanation": "pag 121",
+          "collapsed": true
+        },
+        {
+          "id": 31,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-6-img-1774377165679-cj9q5p.PNG",
+          "explanation": "pag 124",
+          "collapsed": true
+        },
+        {
+          "id": 32,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-6-img-1774378659187-tzn71l.PNG",
+          "explanation": "pag 125",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 27
+        },
+        {
+          "type": "image",
+          "id": 28
+        },
+        {
+          "type": "image",
+          "id": 29
+        },
+        {
+          "type": "image",
+          "id": 30
+        },
+        {
+          "type": "image",
+          "id": 31
+        },
+        {
+          "type": "image",
+          "id": 32
+        },
+        {
+          "type": "question",
+          "id": 39
+        },
+        {
+          "type": "question",
+          "id": 41
+        },
+        {
+          "type": "question",
+          "id": 62
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sistemul osos",
+      "questions": [
+        {
+          "id": 10,
+          "type": "question",
+          "question": "Participă la alcătuirea septului nazal:",
+          "answers": [
+            {
+              "text": "osul nazal",
+              "correct": false
+            },
+            {
+              "text": "apofiza stiloidă",
+              "correct": false
+            },
+            {
+              "text": "vomerul",
+              "correct": true
+            },
+            {
+              "text": "cornetul nazal inferior",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 35,
+          "type": "question",
+          "question": "Care dintre următoarele oase prezintă condili?",
+          "answers": [
+            {
+              "text": "tibia",
+              "correct": true
+            },
+            {
+              "text": "axisul",
+              "correct": false
+            },
+            {
+              "text": " radiusul",
+              "correct": false
+            },
+            {
+              "text": "osul occipital",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 38,
+          "type": "question",
+          "question": "Se leagă de manubriul sternal:",
+          "answers": [
+            {
+              "text": "extremitatea posterioară a coastei II",
+              "correct": false
+            },
+            {
+              "text": "extremitatea anterioară a coastei I",
+              "correct": true
+            },
+            {
+              "text": "cartilajul comun al coastelor false",
+              "correct": false
+            },
+            {
+              "text": "extremitatea laterală a claviculei",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        }
+      ],
+      "images": [
+        {
+          "id": 33,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-7-img-1774378680297-i9fqel.PNG",
+          "explanation": "pag 141",
+          "collapsed": true
+        },
+        {
+          "id": 34,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-7-img-1774378691496-sakqlr.PNG",
+          "explanation": "pag 142",
+          "collapsed": true
+        },
+        {
+          "id": 35,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-7-img-1774378703203-gqmcpu.PNG",
+          "explanation": "pag 144",
+          "collapsed": true
+        },
+        {
+          "id": 36,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-7-img-1774378719812-4xhqro.PNG",
+          "explanation": "pag 145",
+          "collapsed": true
+        },
+        {
+          "id": 37,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-7-img-1774378927122-4hv3gk.PNG",
+          "explanation": "pag 146",
+          "collapsed": true
+        },
+        {
+          "id": 38,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-7-img-1774380369500-e5c3do.PNG",
+          "explanation": "pag 147",
+          "collapsed": true
+        },
+        {
+          "id": 39,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-7-img-1774380382843-q21lpu.PNG",
+          "explanation": "pag 148",
+          "collapsed": true
+        },
+        {
+          "id": 40,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-7-img-1774380396040-qfnbbv.PNG",
+          "explanation": "pag 149",
+          "collapsed": true
+        },
+        {
+          "id": 41,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-7-img-1774380411569-goc882.PNG",
+          "explanation": "pag 150",
+          "collapsed": true
+        },
+        {
+          "id": 42,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-7-img-1774380422395-2lhf80.PNG",
+          "explanation": "pag 151",
+          "collapsed": true
+        },
+        {
+          "id": 43,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-7-img-1774380436203-wo0ex3.PNG",
+          "explanation": "pag 153",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 33
+        },
+        {
+          "type": "image",
+          "id": 34
+        },
+        {
+          "type": "image",
+          "id": 35
+        },
+        {
+          "type": "image",
+          "id": 36
+        },
+        {
+          "type": "image",
+          "id": 37
+        },
+        {
+          "type": "image",
+          "id": 38
+        },
+        {
+          "type": "image",
+          "id": 39
+        },
+        {
+          "type": "image",
+          "id": 40
+        },
+        {
+          "type": "image",
+          "id": 41
+        },
+        {
+          "type": "image",
+          "id": 42
+        },
+        {
+          "type": "image",
+          "id": 43
+        },
+        {
+          "type": "question",
+          "id": 10
+        },
+        {
+          "type": "question",
+          "id": 35
+        },
+        {
+          "type": "question",
+          "id": 38
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Țesutul muscular",
+      "questions": [
+        {
+          "id": 13,
+          "type": "question",
+          "question": "Alegeți asocierea/asocierile corectă/corecte privind forma fibrelor musculare, anumite caracteristici ale contracției acestora și localizarea lor:",
+          "answers": [
+            {
+              "text": "fibre alungite, fusiforme - cea mai mare capacitate de a rămâne contractate - musculara mucoasei",
+              "correct": true
+            },
+            {
+              "text": "fibre alungite cu capete ramificate - perioada refractară absolută 1-2 msec - treimea inferioară a esofagului",
+              "correct": false
+            },
+            {
+              "text": "fibre alungite cu capete rotunjite - contracția cea mai rapidă - limbă",
+              "correct": true
+            },
+            {
+              "text": "fibre cilindrice învelite de endomisium - timp de contracție de 150-300 msec - miometru",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 33,
+          "type": "question",
+          "question": "Atât fibrele mușchiului cardiac, cât și fibrele mușchiului neted:",
+          "answers": [
+            {
+              "text": "se contractă ca răspuns la impulsuri venite de la sistemul nervos autonom",
+              "correct": false
+            },
+            {
+              "text": "prezintă corpi denși distribuiți în întreaga celulă",
+              "correct": false
+            },
+            {
+              "text": "au un singur nucleu",
+              "correct": true
+            },
+            {
+              "text": "pot prezenta canale sau pori ce permit trecerea ionilor și moleculelor dintr-o celulă în alta",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 71,
+          "type": "question",
+          "question": "Despre celulele musculare striate scheletice este adevărat că:",
+          "answers": [
+            {
+              "text": "cele care au un conținut abundent în glicogen sunt capabile de contracții lente, susținute, cu instalare lentă a oboselii musculare",
+              "correct": false
+            },
+            {
+              "text": "își au originea în foița embrionară mijlocie numită mezoderm",
+              "correct": true
+            },
+            {
+              "text": "cele care au un conținut ridicat de pigment ce stochează oxigenul se pot contracta repetat și rezistă la oboseală musculară",
+              "correct": true
+            },
+            {
+              "text": "la nivelul lor, în lipsa ATP-ului, enzimele pompează calciul înapoi în cisternele terminale ale reticulului endoplasmatic rugos",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 75,
+          "type": "question",
+          "question": "Sarcomerul:",
+          "answers": [
+            {
+              "text": "este unitatea funcțională a mușchiului oxidativ, dar și a mușchiului glicolitic",
+              "correct": true
+            },
+            {
+              "text": "prezintă la cele două capete câte o linie Z, iar în centru zona H, formată din filamente de actină și tropomiozină",
+              "correct": false
+            },
+            {
+              "text": "revine imediat la lungimea inițială atunci când nu mai există impulsuri nervoase și ATP",
+              "correct": false
+            },
+            {
+              "text": "se scurtează prin alunecarea filamentelor de actină de-a lungul filamentelor de miozină, după fosforilarea actinei",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 81,
+          "type": "question",
+          "question": "Eventimentele din timpul relaxării fibrelor musculare scheletice includ:",
+          "answers": [
+            {
+              "text": "descompunerea de către colinesterază a acetilcolinei eliberate la nivelul plăcii motorii",
+              "correct": true
+            },
+            {
+              "text": "inhibarea interacțiunii dintre filamentele de actină și miozină ca urmare a legării calciului la calmodulină",
+              "correct": false
+            },
+            {
+              "text": "deplasarea moleculelor de tropomiozină, cu formarea de punți de legătură între filamentele subțiri și capetele filamentelor groase",
+              "correct": false
+            },
+            {
+              "text": "transportul ionilor de calciu în interiorul tubilor T și al reticulului sarcoplasmic, în prezența ATP",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        }
+      ],
+      "images": [
+        {
+          "id": 44,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-8-img-1774380494144-bx9lt3.PNG",
+          "explanation": "pag 170",
+          "collapsed": true
+        },
+        {
+          "id": 45,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-8-img-1774380506760-fu7nge.PNG",
+          "explanation": "pag 172",
+          "collapsed": true
+        },
+        {
+          "id": 46,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-8-img-1774380521764-ejtrjm.PNG",
+          "explanation": "pag 174",
+          "collapsed": true
+        },
+        {
+          "id": 47,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-8-img-1774381031088-wdk7bm.PNG",
+          "explanation": "pag 175",
+          "collapsed": true
+        },
+        {
+          "id": 48,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-8-img-1774381042367-sohg2j.PNG",
+          "explanation": "pag 177",
+          "collapsed": true
+        },
+        {
+          "id": 49,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-8-img-1774381055708-ldmkxe.PNG",
+          "explanation": "pag 179",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 44
+        },
+        {
+          "type": "image",
+          "id": 45
+        },
+        {
+          "type": "image",
+          "id": 46
+        },
+        {
+          "type": "image",
+          "id": 47
+        },
+        {
+          "type": "image",
+          "id": 48
+        },
+        {
+          "type": "image",
+          "id": 49
+        },
+        {
+          "type": "question",
+          "id": 13
+        },
+        {
+          "type": "question",
+          "id": 33
+        },
+        {
+          "type": "question",
+          "id": 71
+        },
+        {
+          "type": "question",
+          "id": 75
+        },
+        {
+          "type": "question",
+          "id": 81
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Sistemul muscular",
+      "questions": [
+        {
+          "id": 19,
+          "type": "question",
+          "question": "Alegeți afirmația/afirmațiile corectă/corecte:",
+          "answers": [
+            {
+              "text": "oblicul extern constituie stratul mijlociu al celor trei straturi musculare situate lateral de dreptul abdominal",
+              "correct": false
+            },
+            {
+              "text": "sternocleidomastoidul înclină capul lateral și înspre torace",
+              "correct": true
+            },
+            {
+              "text": "mușchii extrinseci ai ochiului modifică forma cristalinului",
+              "correct": false
+            },
+            {
+              "text": "transversul abdominal are originea pe linia albă și inserția pe apofizele vertebrelor lombare",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 28,
+          "type": "question",
+          "question": "Alegeți combinația/combinațiile corectă/corecte referitor la inervația mușchilor membrului inferior:",
+          "answers": [
+            {
+              "text": "mușchiul solear - nervul obturator",
+              "correct": false
+            },
+            {
+              "text": "mușchiul tibial anterior - nervul fibular profund",
+              "correct": true
+            },
+            {
+              "text": "mușchiul semitendinos - nervul fibular",
+              "correct": false
+            },
+            {
+              "text": "mușchiul croitor - nervul femural",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        },
+        {
+          "id": 65,
+          "type": "question",
+          "question": "Referitor la mușchii capului este adevărat că:",
+          "answers": [
+            {
+              "text": "mușchiul pterigoid lateral se inseră pe suprafața internă a ramurii mandibulei",
+              "correct": false
+            },
+            {
+              "text": "mușchiul platisma contribuie la masticație",
+              "correct": false
+            },
+            {
+              "text": "includ șase mușchi cu rol esențial în realizarea mimicii",
+              "correct": true
+            },
+            {
+              "text": "la producerea zâmbetului participă contracția mușchiului zigomatic",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 72,
+          "type": "question",
+          "question": "La procesul de inspirație participă:",
+          "answers": [
+            {
+              "text": "mușchiul drept abdominal",
+              "correct": false
+            },
+            {
+              "text": "diafragma",
+              "correct": true
+            },
+            {
+              "text": "mușchiul transvers abdominal",
+              "correct": false
+            },
+            {
+              "text": "mușchii intercostali externi",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 50,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-9-img-1774385552427-7s0il0.PNG",
+          "explanation": "pag 193",
+          "collapsed": true
+        },
+        {
+          "id": 51,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-9-img-1774385571786-1b4p0r.PNG",
+          "explanation": "pag 194",
+          "collapsed": true
+        },
+        {
+          "id": 52,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-9-img-1774385583779-txo48s.PNG",
+          "explanation": "pag 196",
+          "collapsed": true
+        },
+        {
+          "id": 53,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-9-img-1774385598684-dweqt8.PNG",
+          "explanation": "pag 197",
+          "collapsed": true
+        },
+        {
+          "id": 54,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-9-img-1774385610579-ulbvby.PNG",
+          "explanation": "pag 199",
+          "collapsed": true
+        },
+        {
+          "id": 55,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-9-img-1774385643682-qzt1ir.PNG",
+          "explanation": "pag 200",
+          "collapsed": true
+        },
+        {
+          "id": 56,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-9-img-1774385656074-dwuy4h.PNG",
+          "explanation": "pag 201",
+          "collapsed": true
+        },
+        {
+          "id": 57,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-9-img-1774385666576-4spkus.PNG",
+          "explanation": "pag 203",
+          "collapsed": true
+        },
+        {
+          "id": 58,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-9-img-1774385689117-pnljfx.PNG",
+          "explanation": "pag 206",
+          "collapsed": true
+        },
+        {
+          "id": 59,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-9-img-1774385718551-s2jtez.PNG",
+          "explanation": "pag 207",
+          "collapsed": true
+        },
+        {
+          "id": 60,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-9-img-1774385733813-st6wn2.PNG",
+          "explanation": "pag 208",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 50
+        },
+        {
+          "type": "image",
+          "id": 51
+        },
+        {
+          "type": "image",
+          "id": 52
+        },
+        {
+          "type": "image",
+          "id": 53
+        },
+        {
+          "type": "image",
+          "id": 54
+        },
+        {
+          "type": "image",
+          "id": 55
+        },
+        {
+          "type": "image",
+          "id": 56
+        },
+        {
+          "type": "image",
+          "id": 57
+        },
+        {
+          "type": "image",
+          "id": 58
+        },
+        {
+          "type": "image",
+          "id": 59
+        },
+        {
+          "type": "image",
+          "id": 60
+        },
+        {
+          "type": "question",
+          "id": 19
+        },
+        {
+          "type": "question",
+          "id": 28
+        },
+        {
+          "type": "question",
+          "id": 65
+        },
+        {
+          "type": "question",
+          "id": 72
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Țesutul nervos",
+      "questions": [
+        {
+          "id": 47,
+          "type": "question",
+          "question": "În cadrul unui experiment, datorită inhibării activității pompei de sodiu-potasiu într-un neuron:",
+          "answers": [
+            {
+              "text": "diferența de potențial dintre cele două suprafețe ale membranei celulare va scădea",
+              "correct": true
+            },
+            {
+              "text": "concentrația ionilor de potasiu din interiorul celulei va crește",
+              "correct": false
+            },
+            {
+              "text": "celula va utiliza mai mult ATP",
+              "correct": false
+            },
+            {
+              "text": "gradientul de sodiu dintre cele două suprafețe ale membranei celulare va scădea",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 53,
+          "type": "question",
+          "question": "Referitor la potențialul postsinaptic excitator este adevărat că:",
+          "answers": [
+            {
+              "text": "se manifestă prin depolarizarea neuronului postsinaptic",
+              "correct": true
+            },
+            {
+              "text": "poate fi declanșat de acidul gama-amino-butiric",
+              "correct": false
+            },
+            {
+              "text": "poate fi declanșat de glicină",
+              "correct": false
+            },
+            {
+              "text": "apropie de prag potențialul de membrană al celulei postsinaptice",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 57,
+          "type": "question",
+          "question": "Referitor la teaca de mielină este adevărat că:",
+          "answers": [
+            {
+              "text": "în cerebel mielina este produsă de astrocite",
+              "correct": false
+            },
+            {
+              "text": "mielinizarea nervului optic este asigurată de oligodendrocite",
+              "correct": true
+            },
+            {
+              "text": "la nivelul nodurilor Ranvier axonul nu prezintă mielină",
+              "correct": true
+            },
+            {
+              "text": "axonii interneuronilor din zonele superficiale ale encefalului sunt înveliți de mielină",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 61,
+          "type": "question",
+          "question": "Referitor la neurotransmițătorul care se eliberează din neuronii motori ce inervează mușchii scheletici este adevărat că:",
+          "answers": [
+            {
+              "text": "se poate elibera și din terminațiile simpatice",
+              "correct": false
+            },
+            {
+              "text": "după ce se leagă de receptori, este descompus de o enzimă",
+              "correct": true
+            },
+            {
+              "text": "este recuperat din fanta sinaptică de către neuronul motor prin endocitoză",
+              "correct": false
+            },
+            {
+              "text": "vitamina B1 favorizează sinteza lui",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 73,
+          "type": "question",
+          "question": "La nivelul rădăcinii posterioare a nervului spinal:",
+          "answers": [
+            {
+              "text": "se găsesc neuroni pseudounipolari",
+              "correct": true
+            },
+            {
+              "text": "se găsește un ganglion în care se află neuroni motori",
+              "correct": false
+            },
+            {
+              "text": "fibrele motorii părăsesc cornul posterior al măduvei spinării",
+              "correct": false
+            },
+            {
+              "text": "fibrele senzoriale pătrund în cornul posterior al măduvei spinării",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 93,
+          "type": "question",
+          "question": "În cazul reflexului declanșat prin stimularea receptorilor cutanați pentru durere din talpă:",
+          "answers": [
+            {
+              "text": "din butonii terminali ai neuronului eferent se eliberează noradrenalină",
+              "correct": false
+            },
+            {
+              "text": "neuronul aferent este unul pseudounipolar",
+              "correct": true
+            },
+            {
+              "text": "mușchiul supinator se contractă puternic",
+              "correct": false
+            },
+            {
+              "text": "corpul celular al neuronului eferent se află în cornul anterior al măduvei spinării",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 61,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-10-img-1774390518159-vga2g9.PNG",
+          "explanation": "pag 225",
+          "collapsed": true
+        },
+        {
+          "id": 62,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-10-img-1774390533499-8k1gb3.PNG",
+          "explanation": "pag 226",
+          "collapsed": true
+        },
+        {
+          "id": 63,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-10-img-1774390551562-urmjw6.PNG",
+          "explanation": "pag 227",
+          "collapsed": true
+        },
+        {
+          "id": 64,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-10-img-1774390563688-24wrej.PNG",
+          "explanation": "pag 228",
+          "collapsed": true
+        },
+        {
+          "id": 65,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-10-img-1774390687233-bb9z9a.PNG",
+          "explanation": "pag 229",
+          "collapsed": true
+        },
+        {
+          "id": 66,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-10-img-1774390700120-v39f1r.PNG",
+          "explanation": "pag 231",
+          "collapsed": true
+        },
+        {
+          "id": 67,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-10-img-1774390709910-ac2yfp.PNG",
+          "explanation": "pag 232",
+          "collapsed": true
+        },
+        {
+          "id": 68,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-10-img-1774390726300-pfzk5f.PNG",
+          "explanation": "pag 233",
+          "collapsed": true
+        },
+        {
+          "id": 69,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-10-img-1774390748548-g89oyd.PNG",
+          "explanation": "pag 234",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 61
+        },
+        {
+          "type": "image",
+          "id": 62
+        },
+        {
+          "type": "image",
+          "id": 63
+        },
+        {
+          "type": "image",
+          "id": 64
+        },
+        {
+          "type": "image",
+          "id": 65
+        },
+        {
+          "type": "image",
+          "id": 66
+        },
+        {
+          "type": "image",
+          "id": 67
+        },
+        {
+          "type": "image",
+          "id": 68
+        },
+        {
+          "type": "image",
+          "id": 69
+        },
+        {
+          "type": "question",
+          "id": 47
+        },
+        {
+          "type": "question",
+          "id": 53
+        },
+        {
+          "type": "question",
+          "id": 57
+        },
+        {
+          "type": "question",
+          "id": 61
+        },
+        {
+          "type": "question",
+          "id": 73
+        },
+        {
+          "type": "question",
+          "id": 93
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Organizarea sistemului nervos",
+      "questions": [
+        {
+          "id": 43,
+          "type": "question",
+          "question": "Mihai, un băiat în vârstă de 10 ani, a confundat pastilele bunicului său cu vitaminele pe care i le dă zilnic mama lui. După circa o oră de la înghițirea a patru astfel de pastile, Mihai prezintă bradicardie, hipotensiune arterială și constricția pupilelor. Știind că pastilele înghițite de Mihai interferă cu funcționarea sistemului nervos autonom, acestea ar putea conține o substanță care:",
+          "answers": [
+            {
+              "text": "stimulează receptorii pentru acetilcolină",
+              "correct": true
+            },
+            {
+              "text": "produce vasodilatație",
+              "correct": true
+            },
+            {
+              "text": "blochează degradarea catecolaminelor",
+              "correct": false
+            },
+            {
+              "text": "relaxează și vezica urinară",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 78,
+          "type": "question",
+          "question": "Referitor la neuronii postganglionari ai sistemului nervos vegetativ este adevărat că:",
+          "answers": [
+            {
+              "text": "inervează mușchii treimii superioare a esofagului",
+              "correct": false
+            },
+            {
+              "text": "se găsesc și în anumiți nervi cranieni",
+              "correct": true
+            },
+            {
+              "text": "au corpul celular în măduva spinării",
+              "correct": false
+            },
+            {
+              "text": "pot fi adrenergici sau colinergici",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 79,
+          "type": "question",
+          "question": "Nervul facial:",
+          "answers": [
+            {
+              "text": "prezintă ganglioni",
+              "correct": true
+            },
+            {
+              "text": "asigură inervația senzorială a pielii feței",
+              "correct": false
+            },
+            {
+              "text": "conține fibre simpatice",
+              "correct": false
+            },
+            {
+              "text": "conține fibre somatice",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        },
+        {
+          "id": 82,
+          "type": "question",
+          "question": "Care dintre următoarele asocieri este/sunt corectă/corecte?",
+          "answers": [
+            {
+              "text": "lobul parietal - elaborarea gândirii",
+              "correct": false
+            },
+            {
+              "text": "lobul frontal - aria lui Broca",
+              "correct": true
+            },
+            {
+              "text": "lobul occipital - memoria vizuală",
+              "correct": false
+            },
+            {
+              "text": "lobul temporal - aria pentru auz",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 70,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-11-img-1774390830992-morak4.PNG",
+          "explanation": "pag 247",
+          "collapsed": true
+        },
+        {
+          "id": 71,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-11-img-1774391739425-qc2nb3.PNG",
+          "explanation": "pag 248",
+          "collapsed": true
+        },
+        {
+          "id": 72,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-11-img-1774391761582-uyioh8.PNG",
+          "explanation": "pag 248",
+          "collapsed": true
+        },
+        {
+          "id": 73,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-11-img-1774391788405-ferzjj.PNG",
+          "explanation": "pag 249",
+          "collapsed": true
+        },
+        {
+          "id": 74,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-11-img-1774391811690-npji9k.PNG",
+          "explanation": "pag 250",
+          "collapsed": true
+        },
+        {
+          "id": 75,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-11-img-1774391831653-136lfd.PNG",
+          "explanation": "pag 251",
+          "collapsed": true
+        },
+        {
+          "id": 76,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-11-img-1774391851561-ifcfgq.PNG",
+          "explanation": "pag 253",
+          "collapsed": true
+        },
+        {
+          "id": 77,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-11-img-1774391870411-cml8gk.PNG",
+          "explanation": "pag 255",
+          "collapsed": true
+        },
+        {
+          "id": 78,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-11-img-1774391894424-icva2v.PNG",
+          "explanation": "pag 256",
+          "collapsed": true
+        },
+        {
+          "id": 79,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-11-img-1774391927046-r1zp4r.PNG",
+          "explanation": "pag 258",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 70
+        },
+        {
+          "type": "image",
+          "id": 71
+        },
+        {
+          "type": "image",
+          "id": 72
+        },
+        {
+          "type": "image",
+          "id": 73
+        },
+        {
+          "type": "image",
+          "id": 74
+        },
+        {
+          "type": "image",
+          "id": 75
+        },
+        {
+          "type": "image",
+          "id": 76
+        },
+        {
+          "type": "image",
+          "id": 77
+        },
+        {
+          "type": "image",
+          "id": 78
+        },
+        {
+          "type": "image",
+          "id": 79
+        },
+        {
+          "type": "question",
+          "id": 43
+        },
+        {
+          "type": "question",
+          "id": 78
+        },
+        {
+          "type": "question",
+          "id": 79
+        },
+        {
+          "type": "question",
+          "id": 82
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Organele de simț",
+      "questions": [
+        {
+          "id": 3,
+          "type": "question",
+          "question": "La traversarea ochiului, o rază luminoasă parcurge, în ordine:",
+          "answers": [
+            {
+              "text": "corneea - compartimentul posterior - camera posterioară",
+              "correct": false
+            },
+            {
+              "text": "cristalinul - umoarea vitroasă - camera posterioară",
+              "correct": false
+            },
+            {
+              "text": "stratul neuronilor multipolari - stratul neuronilor bipolari - stratul neuronilor receptori",
+              "correct": true
+            },
+            {
+              "text": "umoarea apoasă - cristalinul - umoarea vitroasă",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 5
+        },
+        {
+          "id": 6,
+          "type": "question",
+          "question": "Este caracteristic pentru funcționarea ochiului:",
+          "answers": [
+            {
+              "text": "diametrul pupilar se modifică la fel sub acțiunea noradrenalinei și a luminii intense",
+              "correct": false
+            },
+            {
+              "text": "la privirea unui obiect îndepărtat, cristalinul se aplatizează prin contracția mușchiului ciliar",
+              "correct": false
+            },
+            {
+              "text": "sub acțiunea mediatorului eliberat din terminațiile postganglionare parasimpatice mușchiul constrictor al irisului se contractă",
+              "correct": true
+            },
+            {
+              "text": "prin procesul de acomodare, ochiul se adaptează la variația intensității luminoase",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        },
+        {
+          "id": 8,
+          "type": "question",
+          "question": "Patrik urcă cu mașina pe munte pe un drum abrupt. În acest caz:",
+          "answers": [
+            {
+              "text": "scărița intră mai adânc în fereastra ovală",
+              "correct": false
+            },
+            {
+              "text": "celulele ciliate din ampula canalelor semicirculare detectează modificarea presiunii atmosferice",
+              "correct": false
+            },
+            {
+              "text": "prin trompa lui Eustachio ajunge aer din urechea medie în faringe",
+              "correct": true
+            },
+            {
+              "text": "dacă trompa lui Eustachio este blocată, timpanul bombează în direcția urechii externe",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        },
+        {
+          "id": 9,
+          "type": "question",
+          "question": "Alegeți asocierea/asocierile corectă/corecte între următoarele structuri și funcția lor:",
+          "answers": [
+            {
+              "text": "terminații nervoase libere din piele - percepția durerii",
+              "correct": true
+            },
+            {
+              "text": "corpusculii Pacini - detectarea presiunii ușoare",
+              "correct": false
+            },
+            {
+              "text": "corpusculii Meissner - detectarea presiunilor și vibrațiilor ușoare",
+              "correct": true
+            },
+            {
+              "text": "membrana ce conține otoliți - menținerea echilibrului dinamic",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        }
+      ],
+      "images": [
+        {
+          "id": 80,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-12-img-1774393130234-ovbjpd.PNG",
+          "explanation": "pag 273",
+          "collapsed": true
+        },
+        {
+          "id": 81,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-12-img-1774393853787-4d7jon.PNG",
+          "explanation": "pag 276",
+          "collapsed": true
+        },
+        {
+          "id": 82,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-12-img-1774393870114-myud8a.PNG",
+          "explanation": "pag 278",
+          "collapsed": true
+        },
+        {
+          "id": 83,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-12-img-1774393885400-tb6uop.PNG",
+          "explanation": "pag 279",
+          "collapsed": true
+        },
+        {
+          "id": 84,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-12-img-1774393983292-z8v7n9.PNG",
+          "explanation": "pag 280",
+          "collapsed": true
+        },
+        {
+          "id": 85,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-12-img-1774394030147-6i31dd.PNG",
+          "explanation": "pag 281",
+          "collapsed": true
+        },
+        {
+          "id": 86,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-12-img-1774394051261-al02uh.PNG",
+          "explanation": "pag 282",
+          "collapsed": true
+        },
+        {
+          "id": 87,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-12-img-1774394071580-08q68g.PNG",
+          "explanation": "pag 283",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 80
+        },
+        {
+          "type": "image",
+          "id": 81
+        },
+        {
+          "type": "image",
+          "id": 82
+        },
+        {
+          "type": "image",
+          "id": 83
+        },
+        {
+          "type": "image",
+          "id": 84
+        },
+        {
+          "type": "image",
+          "id": 85
+        },
+        {
+          "type": "image",
+          "id": 86
+        },
+        {
+          "type": "image",
+          "id": 87
+        },
+        {
+          "type": "question",
+          "id": 3
+        },
+        {
+          "type": "question",
+          "id": 6
+        },
+        {
+          "type": "question",
+          "id": 8
+        },
+        {
+          "type": "question",
+          "id": 9
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Sistemul endocrin",
+      "questions": [
+        {
+          "id": 22,
+          "type": "question",
+          "question": "În legătură cu bolile sistemului endocrin este adevărat că:",
+          "answers": [
+            {
+              "text": "excesul de STH la adult determină apariția gigantismului",
+              "correct": false
+            },
+            {
+              "text": "excesul de ACTH determină apariția bolii Addison",
+              "correct": false
+            },
+            {
+              "text": "secreția scăzută de tiroxină la copii determină apariția cretinismului",
+              "correct": true
+            },
+            {
+              "text": "secreția crescută de vasopresină determină apariția diabetului insipid",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        },
+        {
+          "id": 23,
+          "type": "question",
+          "question": "În privința hormonilor non-steroidieni este adevărat că:",
+          "answers": [
+            {
+              "text": "norepinefrina și epinefrina sunt hormoni aminici",
+              "correct": true
+            },
+            {
+              "text": "aldosteronul și cortizolul sunt hormoni glicoproteici",
+              "correct": false
+            },
+            {
+              "text": "insulina, calcitonina și hormonul somatotrop sunt hormoni proteici",
+              "correct": true
+            },
+            {
+              "text": "estrogenii și testosteronul sunt hormoni peptidici",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 40,
+          "type": "question",
+          "question": "Nivelul de calciu din sânge este influențat de:",
+          "answers": [
+            {
+              "text": "parathormon - prin activarea renală a vitaminei D, care crește nivelul de calciu din sânge prin influențarea absorbției acestuia din intestin",
+              "correct": true
+            },
+            {
+              "text": "calcitonină - prin stimularea activității osteoclastelor, scăzând astfel concentrația calciului din sânge",
+              "correct": false
+            },
+            {
+              "text": "parathormon - prin scăderea resorbției osoase, crescând astfel concentrația calciului din sânge",
+              "correct": false
+            },
+            {
+              "text": "calcitonină - prin creșterea depunerii de calciu în oase, scăzând astfel concentrația de calciu din sânge",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 94,
+          "type": "question",
+          "question": "În privința hormonilor tropi hipofizari este adevărat că:",
+          "answers": [
+            {
+              "text": "ovulația se produce în ziua 7 a ciclului menstrual, datorită unei creșteri bruște a nivelului de LH",
+              "correct": false
+            },
+            {
+              "text": "ACTH-ul are ca țintă zona medulară a suprarenalei",
+              "correct": false
+            },
+            {
+              "text": "TSH-ul stimulează captarea iodului de către tiroidă",
+              "correct": true
+            },
+            {
+              "text": "FSH-ul stimulează spermatogeneza și dezvoltarea foliculilor ovarieni",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 88,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-13-img-1774395279138-029uzc.PNG",
+          "explanation": "pag 297",
+          "collapsed": true
+        },
+        {
+          "id": 89,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-13-img-1774395364246-3jv24b.PNG",
+          "explanation": "pag 298",
+          "collapsed": true
+        },
+        {
+          "id": 90,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-13-img-1774395804287-7idpno.PNG",
+          "explanation": "pag 299",
+          "collapsed": true
+        },
+        {
+          "id": 91,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-13-img-1774403288860-xpstss.PNG",
+          "explanation": "pag 301",
+          "collapsed": true
+        },
+        {
+          "id": 92,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-13-img-1774403305758-ugevuz.PNG",
+          "explanation": "pag 303",
+          "collapsed": true
+        },
+        {
+          "id": 93,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-13-img-1774403321732-ew9kjr.PNG",
+          "explanation": "pag 304",
+          "collapsed": true
+        },
+        {
+          "id": 94,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-13-img-1774404699808-d6peob.PNG",
+          "explanation": "pag 305",
+          "collapsed": true
+        },
+        {
+          "id": 95,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-13-img-1774404719100-7ng4ty.PNG",
+          "explanation": "pag 306",
+          "collapsed": true
+        },
+        {
+          "id": 96,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-13-img-1774404740060-l1l06g.PNG",
+          "explanation": "pag 307",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 88
+        },
+        {
+          "type": "image",
+          "id": 89
+        },
+        {
+          "type": "image",
+          "id": 90
+        },
+        {
+          "type": "image",
+          "id": 91
+        },
+        {
+          "type": "image",
+          "id": 92
+        },
+        {
+          "type": "image",
+          "id": 93
+        },
+        {
+          "type": "image",
+          "id": 94
+        },
+        {
+          "type": "image",
+          "id": 95
+        },
+        {
+          "type": "image",
+          "id": 96
+        },
+        {
+          "type": "question",
+          "id": 22
+        },
+        {
+          "type": "question",
+          "id": 23
+        },
+        {
+          "type": "question",
+          "id": 40
+        },
+        {
+          "type": "question",
+          "id": 94
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Sângele",
+      "questions": [
+        {
+          "id": 4,
+          "type": "question",
+          "question": "Maria este o femeie de 30 de ani cu grupa sanguină A-. Ea este însărcinată a doua oară. Din prima sarcină s-a născut Adam, care are grupa sanguină A+. Tatăl copiilor Mariei are grupa sanguină AB+. Referitor la această familie este adevărat că:",
+          "answers": [
+            {
+              "text": "anticorpii anti-Rh care se formează în sângele Mariei în contextul primei sarcini pot cauza liza hematiilor lui Adam",
+              "correct": false
+            },
+            {
+              "text": "sângele Mariei conține anticorpi anti-B datorită faptului că în sângele ei au ajuns, cu ocazia primei nașteri, antigenele de pe suprafața hematiilor copilului",
+              "correct": false
+            },
+            {
+              "text": "dacă Maria nu a primit după prima naștere anticorpi anti-Rh, atunci există riscul de eritroblastoză fetală",
+              "correct": true
+            },
+            {
+              "text": "în timpul celei de-a doua sarcini în sângele Mariei pot fi prezenți anticorpi anti-Rh de tip IgM",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 44,
+          "type": "question",
+          "question": "Dintr-o probă de sânge efectuăm numărarea diferențiată a leucocitelor. Identificând 100 de leucocite consecutive, obținem următorul rezultat: 70 de neutrofile, 1 bazofil, 1 eozinofil, 10 limfocite și 18 monocite. Acest rezultat poate să apară:",
+          "answers": [
+            {
+              "text": "într-o infecție ce cauzează creșterea numărului de celule fagocitare",
+              "correct": true
+            },
+            {
+              "text": "într-o infecție fungică însoțită de inflamație",
+              "correct": true
+            },
+            {
+              "text": "în mononucleoza infecțioasă",
+              "correct": false
+            },
+            {
+              "text": "datorită unei reacții alergice",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 54,
+          "type": "question",
+          "question": "Ioan este un atlet profesionist care stă patru săptămâni în cantonament, la o altitudine de 3000 de metri, apoi își petrece concediul de patru săptămâni la mare. Referitor la Ioan este adevărat că:",
+          "answers": [
+            {
+              "text": "până la sfârșitul concediului numărul hematiilor va reveni la numărul de dinaintea cantonamentului",
+              "correct": false
+            },
+            {
+              "text": "pe perioada cantonamentului are o sinteză crescută a hematiilor datorită hipoxiei",
+              "correct": true
+            },
+            {
+              "text": "în ultima săptămână a cantonamentului are o concentrație mai ridicată a eritropoetinei față de ultima săptămână a concediului",
+              "correct": true
+            },
+            {
+              "text": "în prima săptămână a cantonamentului, numărul hematiilor este mai mare decât în prima săptămână a concediului",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 56,
+          "type": "question",
+          "question": "Procesele necesare pentru ca într-un final un plasmocit să secrete anticorpi specifici includ:",
+          "answers": [
+            {
+              "text": "limfocitul T8 specific pentru un anumit antigen trebuie să interacționeze atât cu macrofagul ce prezintă antigenul respectiv, cât și cu limfocitul B",
+              "correct": false
+            },
+            {
+              "text": "IgD de pe limfocitul B trebuie să fie complementar cu antigenul prezentat de macrofag cu ajutorul moleculelor CMH clasa II",
+              "correct": true
+            },
+            {
+              "text": "antigenul trebuie să stimuleze limfocitele T helper, care să elibereze limfokine stimulatoare ale limfocitelor B",
+              "correct": true
+            },
+            {
+              "text": "limfokinele secretate de limfocitele T citotoxice trebuie să producă clone",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        },
+        {
+          "id": 70,
+          "type": "question",
+          "question": "Referitor la anticorpi, este adevărat că:",
+          "answers": [
+            {
+              "text": "locul de legare a unui antigen este format din capătul variabil al unui lanț ușor și al unui lanț greu",
+              "correct": true
+            },
+            {
+              "text": "punțile disulfurice leagă cele două lanțuri ușoare ale unei molecule de IgG",
+              "correct": false
+            },
+            {
+              "text": "proteina ce conectează lanțurile grele ale moleculei de IgA se numește „balama”",
+              "correct": false
+            },
+            {
+              "text": "lanțul J leagă lanțurile grele ale anticorpului IgM",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 85,
+          "type": "question",
+          "question": "De la un bărbat se recoltează sânge în două eprubete: eprubeta marcată cu numărul 1 conține oxalat, o substanță care leagă calciul, iar eprubeta marcată cu numărul 2 conține factori tisulari. Centrifugăm conținutul ambelor eprubete. După centrifugare:",
+          "answers": [
+            {
+              "text": "în eprubeta numărul 1, un hematocrit măsurat de 47% este normal",
+              "correct": true
+            },
+            {
+              "text": "în eprubeta numărul 2, lichidul de culoarea gălbuie de deasupra hematiilor sedimentate este plasma sanguină",
+              "correct": false
+            },
+            {
+              "text": "în eprubeta numărul 1, lichidul de deasupra hematiilor sedimentate se numește ser",
+              "correct": false
+            },
+            {
+              "text": "în eprubeta numărul 1 avem o concentrație mai mare a fibrinogenului decât în eprubeta numărul 2",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 97,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-14-img-1774404870247-x70c1h.PNG",
+          "explanation": "pag 320",
+          "collapsed": true
+        },
+        {
+          "id": 98,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-14-img-1774404886253-b40orf.PNG",
+          "explanation": "pag 322",
+          "collapsed": true
+        },
+        {
+          "id": 99,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-14-img-1774404913458-024h16.PNG",
+          "explanation": "pag 323",
+          "collapsed": true
+        },
+        {
+          "id": 100,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-14-img-1774404933347-tkq6nx.PNG",
+          "explanation": "pag 325",
+          "collapsed": true
+        },
+        {
+          "id": 101,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-14-img-1774404953380-f8n8x4.PNG",
+          "explanation": "pag 328",
+          "collapsed": true
+        },
+        {
+          "id": 102,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-14-img-1774404969091-ddklwj.PNG",
+          "explanation": "pag 330",
+          "collapsed": true
+        },
+        {
+          "id": 103,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-14-img-1774404999517-jhgxay.PNG",
+          "explanation": "pag 331",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 97
+        },
+        {
+          "type": "image",
+          "id": 98
+        },
+        {
+          "type": "image",
+          "id": 99
+        },
+        {
+          "type": "image",
+          "id": 100
+        },
+        {
+          "type": "image",
+          "id": 101
+        },
+        {
+          "type": "image",
+          "id": 102
+        },
+        {
+          "type": "image",
+          "id": 103
+        },
+        {
+          "type": "question",
+          "id": 4
+        },
+        {
+          "type": "question",
+          "id": 44
+        },
+        {
+          "type": "question",
+          "id": 54
+        },
+        {
+          "type": "question",
+          "id": 56
+        },
+        {
+          "type": "question",
+          "id": 70
+        },
+        {
+          "type": "question",
+          "id": 85
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Sistemul cardiovascular",
+      "questions": [
+        {
+          "id": 7,
+          "type": "question",
+          "question": "În sistemul cardiovascular:",
+          "answers": [
+            {
+              "text": "valvele semilunare sunt situate ventral față de cele atrioventriculare",
+              "correct": true
+            },
+            {
+              "text": "componentele cu rol de pompă ale inimii primesc sânge din șapte vene",
+              "correct": false
+            },
+            {
+              "text": "lezarea cordajelor tendinoase împiedică mișcarea normală a cuspisurilor valvelor semilunare",
+              "correct": false
+            },
+            {
+              "text": "toate structurile cavitare și tubulare sunt tapetate la interior cu un epiteliu simplu pavimentos",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 5
+        },
+        {
+          "id": 31,
+          "type": "question",
+          "question": "La nivelul sistemului cardiovascular:",
+          "answers": [
+            {
+              "text": "sângele sărac în oxigen și bogat în dioxid de carbon trece succesiv prin două valve prevăzute fiecare cu câte trei elemente mobile",
+              "correct": true
+            },
+            {
+              "text": "celulele musculare sunt identice din punct de vedere structural și funcțional în toate structurile care alcătuiesc acest sistem",
+              "correct": false
+            },
+            {
+              "text": "activitatea miocardică poate fi oprită temporar prin control voluntar",
+              "correct": false
+            },
+            {
+              "text": "stratul extern al structurilor care leagă capilarele de vene conține o rețea laxă de fibre de colagen",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        },
+        {
+          "id": 37,
+          "type": "question",
+          "question": "Florina este o tânără de 23 de ani care cântărește 58 kg și are 173 cm înălțime. Ea are un puls de 60 de bătăi/minut, o tensiune arterială de 110/70 mmHg, un debit cardiac de 6 l/minut și o frecvență respiratorie de 16 respirații/minut. Știind că Florina nu prezintă nicio afecțiune, ea va avea:",
+          "answers": [
+            {
+              "text": "o durată a ciclului cardiac mai mică de o secundă",
+              "correct": false
+            },
+            {
+              "text": "o masă de sânge de circa 6,4 kg",
+              "correct": false
+            },
+            {
+              "text": "un volum curent de circa 0,5 l",
+              "correct": true
+            },
+            {
+              "text": "un volum bătaie de 100 ml",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        }
+      ],
+      "images": [
+        {
+          "id": 104,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-15-img-1774405733916-wiouo5.PNG",
+          "explanation": "pag 344",
+          "collapsed": true
+        },
+        {
+          "id": 105,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-15-img-1774405755452-z06y6c.PNG",
+          "explanation": "pag 345",
+          "collapsed": true
+        },
+        {
+          "id": 106,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-15-img-1774405769464-637anm.PNG",
+          "explanation": "pag 346",
+          "collapsed": true
+        },
+        {
+          "id": 107,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-15-img-1774405787250-ddh9pa.PNG",
+          "explanation": "pag 347",
+          "collapsed": true
+        },
+        {
+          "id": 108,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-15-img-1774405830798-c5re44.PNG",
+          "explanation": "pag 348",
+          "collapsed": true
+        },
+        {
+          "id": 109,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-15-img-1774405848792-zzcpg3.PNG",
+          "explanation": "pag 350",
+          "collapsed": true
+        },
+        {
+          "id": 110,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-15-img-1774405863087-cr1s71.PNG",
+          "explanation": "pag 350",
+          "collapsed": true
+        },
+        {
+          "id": 111,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-15-img-1774405884356-je2hf7.PNG",
+          "explanation": "pag 354",
+          "collapsed": true
+        },
+        {
+          "id": 112,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-15-img-1774405904347-j1lr16.PNG",
+          "explanation": "pag 357",
+          "collapsed": true
+        },
+        {
+          "id": 113,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-15-img-1774406626184-17hjdd.PNG",
+          "explanation": "pag 358",
+          "collapsed": true
+        },
+        {
+          "id": 114,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-15-img-1774406711889-4rsogf.PNG",
+          "explanation": "pag 359",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 104
+        },
+        {
+          "type": "image",
+          "id": 105
+        },
+        {
+          "type": "image",
+          "id": 106
+        },
+        {
+          "type": "image",
+          "id": 107
+        },
+        {
+          "type": "image",
+          "id": 108
+        },
+        {
+          "type": "image",
+          "id": 109
+        },
+        {
+          "type": "image",
+          "id": 110
+        },
+        {
+          "type": "image",
+          "id": 111
+        },
+        {
+          "type": "image",
+          "id": 112
+        },
+        {
+          "type": "image",
+          "id": 113
+        },
+        {
+          "type": "image",
+          "id": 114
+        },
+        {
+          "type": "question",
+          "id": 7
+        },
+        {
+          "type": "question",
+          "id": 31
+        },
+        {
+          "type": "question",
+          "id": 37
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Sistemul limfatic și imun",
+      "questions": [
+        {
+          "id": 2,
+          "type": "question",
+          "question": "Splina:",
+          "answers": [
+            {
+              "text": "are o amprentă produsă de rinichiul stâng, situată pe fața convexă",
+              "correct": false
+            },
+            {
+              "text": "este vascularizată de artera splenică, ramură din artera mezenterică superioară",
+              "correct": false
+            },
+            {
+              "text": "are o amprentă produsă de corpul gastric",
+              "correct": true
+            },
+            {
+              "text": "prezintă o capsulă de țesut conjunctiv",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 5
+        },
+        {
+          "id": 89,
+          "type": "question",
+          "question": "Referitor la sistemul limfatic este adevărat că:",
+          "answers": [
+            {
+              "text": "aglomerări de țesut limfoid nodular se regăsesc atât în ileon, cât și în duoden",
+              "correct": true
+            },
+            {
+              "text": "limfocitele T primitive din timus migrează în nodulii limfatici, unde se transformă în limfocite T mature",
+              "correct": false
+            },
+            {
+              "text": "celulele „natural killer” se diferențiază din aceleași celule limfopoetice ca și limfocitele T",
+              "correct": false
+            },
+            {
+              "text": "limfa conține grăsimi reconstituite și proteine",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 115,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-16-img-1774408311370-slwyu0.PNG",
+          "explanation": "pag 377",
+          "collapsed": true
+        },
+        {
+          "id": 116,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-16-img-1774408332163-fvqi1k.PNG",
+          "explanation": "pag 378",
+          "collapsed": true
+        },
+        {
+          "id": 117,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-16-img-1774408358064-r0bwkv.PNG",
+          "explanation": "pag 379",
+          "collapsed": true
+        },
+        {
+          "id": 118,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-16-img-1774408455279-zplfun.PNG",
+          "explanation": "pag 380",
+          "collapsed": true
+        },
+        {
+          "id": 119,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-16-img-1774408471655-qhrin8.PNG",
+          "explanation": "pag 381",
+          "collapsed": true
+        },
+        {
+          "id": 120,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-16-img-1774408502164-yvew7s.PNG",
+          "explanation": "pag 383",
+          "collapsed": true
+        },
+        {
+          "id": 121,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-16-img-1774408547691-sollvq.PNG",
+          "explanation": "pag 386",
+          "collapsed": true
+        },
+        {
+          "id": 122,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-16-img-1774408558767-eajgl6.PNG",
+          "explanation": "pag 387",
+          "collapsed": true
+        },
+        {
+          "id": 123,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-16-img-1774408625910-y5ifvv.PNG",
+          "explanation": "pag 388",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 115
+        },
+        {
+          "type": "image",
+          "id": 116
+        },
+        {
+          "type": "image",
+          "id": 117
+        },
+        {
+          "type": "image",
+          "id": 118
+        },
+        {
+          "type": "image",
+          "id": 119
+        },
+        {
+          "type": "image",
+          "id": 120
+        },
+        {
+          "type": "image",
+          "id": 121
+        },
+        {
+          "type": "image",
+          "id": 122
+        },
+        {
+          "type": "image",
+          "id": 123
+        },
+        {
+          "type": "question",
+          "id": 2
+        },
+        {
+          "type": "question",
+          "id": 89
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Sistemul respirator",
+      "questions": [
+        {
+          "id": 1,
+          "type": "question",
+          "question": "În structura laringelui se evidențiază:",
+          "answers": [
+            {
+              "text": "cartilajul cricoid, care leagă faringele de laringe",
+              "correct": false
+            },
+            {
+              "text": "cartilajul tiroid, aflat în partea ventrală a gâtului",
+              "correct": true
+            },
+            {
+              "text": "epiglota, care nu permite trecerea alimentelor în tractul respirator",
+              "correct": true
+            },
+            {
+              "text": "glota, cel mai mare cartilaj, cunoscut și sub numele de „mărul lui Adam”",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 5
+        },
+        {
+          "id": 11,
+          "type": "question",
+          "question": "Privind fiziologia respirației este adevărat că:",
+          "answers": [
+            {
+              "text": "capacitatea vitală pulmonară reprezintă cantitatea maximă de aer ce poate fi expirată după un inspir forțat",
+              "correct": true
+            },
+            {
+              "text": "în timpul unei respirații de repaus, în plămâni pătrund aproximativ 500 de ml de aer",
+              "correct": true
+            },
+            {
+              "text": "centrii respiratori din trunchiul cerebral monitorizează direct nivelul de dioxid de carbon din fluxul sanguin",
+              "correct": false
+            },
+            {
+              "text": "în timpul procesului de expirație are loc contracția mușchilor intercostali externi",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        },
+        {
+          "id": 26,
+          "type": "question",
+          "question": "În ceea ce privește transportul gazelor respiratorii în sânge, este adevărat că:",
+          "answers": [
+            {
+              "text": "dioxidul de carbon se leagă de hemoglobină în același loc în care se leagă și oxigenul",
+              "correct": false
+            },
+            {
+              "text": "7% din dioxidul de carbon este transportat de hemoglobină și 25-30% este dizolvat în plasmă sau în citoplasma hematiilor",
+              "correct": false
+            },
+            {
+              "text": "2% din oxigen este transportat de hemoglobină și 98% este dizolvat în plasmă sau în citoplasma hematiilor",
+              "correct": false
+            },
+            {
+              "text": "70-75% din dioxidul de carbon este transportat sub formă de ioni de bicarbonat",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 66,
+          "type": "question",
+          "question": "Legat de patologia aparatului respirator este adevărat că:",
+          "answers": [
+            {
+              "text": "febra fânului este o formă de amigdalită alergică",
+              "correct": false
+            },
+            {
+              "text": "wheezing-ul poate fi o manifestare a astmului",
+              "correct": true
+            },
+            {
+              "text": "infecțiile urechii medii sunt cauzate, de multe ori, de microorganisme care pătrund în trompa lui Eustachio din nazofaringe",
+              "correct": true
+            },
+            {
+              "text": "amigdalita este o inflamație a uvulei",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 68,
+          "type": "question",
+          "question": "În ceea ce privește controlul respirației este adevărat că:",
+          "answers": [
+            {
+              "text": "nivelul scăzut al dioxidului de carbon din sângele arterial activează centrul respirator",
+              "correct": false
+            },
+            {
+              "text": "zona pneumotaxică reglează frecvența și amplitudinea respirației",
+              "correct": true
+            },
+            {
+              "text": "la nivelul arterelor carotide și în arcul aortic se găsesc receptori implicați în controlul respirației",
+              "correct": true
+            },
+            {
+              "text": "centrul de control respirator se găsește la nivelul cerebelului",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 76,
+          "type": "question",
+          "question": "Despre faringe este adevărat că:",
+          "answers": [
+            {
+              "text": "la capătul său distal se ramifică în două canale: trompa lui Eustachio și laringele",
+              "correct": false
+            },
+            {
+              "text": "la nivelul orofaringelui se întâlnește calea digestivă cu cea respiratorie",
+              "correct": true
+            },
+            {
+              "text": "laringofaringele se află anterior de laringe",
+              "correct": false
+            },
+            {
+              "text": "prezintă mase de țesut limfatic cu rol în protecția sistemului respirator",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 124,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-17-img-1774408891197-n579jz.PNG",
+          "explanation": "pag 403",
+          "collapsed": true
+        },
+        {
+          "id": 125,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-17-img-1774408911556-e90744.PNG",
+          "explanation": "pag 404",
+          "collapsed": true
+        },
+        {
+          "id": 126,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-17-img-1774408927614-ai4h82.PNG",
+          "explanation": "pag 405",
+          "collapsed": true
+        },
+        {
+          "id": 127,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-17-img-1774408944631-0ak2o2.PNG",
+          "explanation": "pag 407",
+          "collapsed": true
+        },
+        {
+          "id": 128,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-17-img-1774408968294-p8wj5z.PNG",
+          "explanation": "pag 408",
+          "collapsed": true
+        },
+        {
+          "id": 129,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-17-img-1774409064032-jgqp98.PNG",
+          "explanation": "pag 410",
+          "collapsed": true
+        },
+        {
+          "id": 130,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-17-img-1774409083272-4928f2.PNG",
+          "explanation": "pag 411",
+          "collapsed": true
+        },
+        {
+          "id": 131,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-17-img-1774409104251-rmdfkd.PNG",
+          "explanation": "pag 412",
+          "collapsed": true
+        },
+        {
+          "id": 132,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-17-img-1774409120669-1o74k1.PNG",
+          "explanation": "pag 414",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 124
+        },
+        {
+          "type": "image",
+          "id": 125
+        },
+        {
+          "type": "image",
+          "id": 126
+        },
+        {
+          "type": "image",
+          "id": 127
+        },
+        {
+          "type": "image",
+          "id": 128
+        },
+        {
+          "type": "image",
+          "id": 129
+        },
+        {
+          "type": "image",
+          "id": 130
+        },
+        {
+          "type": "image",
+          "id": 131
+        },
+        {
+          "type": "image",
+          "id": 132
+        },
+        {
+          "type": "question",
+          "id": 1
+        },
+        {
+          "type": "question",
+          "id": 11
+        },
+        {
+          "type": "question",
+          "id": 26
+        },
+        {
+          "type": "question",
+          "id": 66
+        },
+        {
+          "type": "question",
+          "id": 68
+        },
+        {
+          "type": "question",
+          "id": 76
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Sistemul digestiv",
+      "questions": [
+        {
+          "id": 25,
+          "type": "question",
+          "question": "Referitor la stomac este adevărat că:",
+          "answers": [
+            {
+              "text": "prezintă un strat muscular extern oblic",
+              "correct": false
+            },
+            {
+              "text": "mucoasa gastrică poate absorbi și alcoolul",
+              "correct": true
+            },
+            {
+              "text": "factorul intrinsec este secretat de celulele parietale",
+              "correct": true
+            },
+            {
+              "text": "pepsina este secretată direct în formă activă",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 5
+        },
+        {
+          "id": 32,
+          "type": "question",
+          "question": "Despre glanda parotidă este adevărat că:",
+          "answers": [
+            {
+              "text": "are un canal care se deschide la nivelul cavității orale, în dreptul celui de-al treilea molar",
+              "correct": false
+            },
+            {
+              "text": "produce o enzimă care are ca rezultat formarea maltozei",
+              "correct": true
+            },
+            {
+              "text": "este a doua ca mărime dintre glandele salivare",
+              "correct": false
+            },
+            {
+              "text": "este situată în țesuturile profunde ale feței, în vecinătatea urechii",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 5
+        },
+        {
+          "id": 67,
+          "type": "question",
+          "question": "Alegeți asocierea/asocierile corectă/corecte dintre fluidul digestiv, enzima conținută de acesta și substratul pe care acționează această enzimă:",
+          "answers": [
+            {
+              "text": "bilă - nuclează - ADN și ARN",
+              "correct": false
+            },
+            {
+              "text": "suc intestinal - labferment - amidon",
+              "correct": false
+            },
+            {
+              "text": "suc gastric - lipază - zaharoză",
+              "correct": false
+            },
+            {
+              "text": "suc pancreatic - tripsină - proteine",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 88,
+          "type": "question",
+          "question": "Esofagul:",
+          "answers": [
+            {
+              "text": "prezintă peristaltism",
+              "correct": true
+            },
+            {
+              "text": "în treimea superioară are un strat muscular aflat sub control voluntar",
+              "correct": true
+            },
+            {
+              "text": "spre deosebire de intestinul subțire, are peretele format din patru straturi",
+              "correct": false
+            },
+            {
+              "text": "are un rol important în absorbția proteinelor",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        }
+      ],
+      "images": [
+        {
+          "id": 133,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-18-img-1774441554026-mt2lo4.PNG",
+          "explanation": "pag 426",
+          "collapsed": true
+        },
+        {
+          "id": 134,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-18-img-1774441569631-umhtmw.PNG",
+          "explanation": "pag 428",
+          "collapsed": true
+        },
+        {
+          "id": 135,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-18-img-1774441594442-ueiw0x.PNG",
+          "explanation": "pag 429",
+          "collapsed": true
+        },
+        {
+          "id": 136,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-18-img-1774441614213-6w4kby.PNG",
+          "explanation": "pag 430",
+          "collapsed": true
+        },
+        {
+          "id": 137,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-18-img-1774441632465-mnilx5.PNG",
+          "explanation": "pag 432",
+          "collapsed": true
+        },
+        {
+          "id": 138,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-18-img-1774441647976-5jgeaj.PNG",
+          "explanation": "pag 434",
+          "collapsed": true
+        },
+        {
+          "id": 139,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-18-img-1774441664336-znchef.PNG",
+          "explanation": "pag 436",
+          "collapsed": true
+        },
+        {
+          "id": 140,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-18-img-1774441675487-pimg2c.PNG",
+          "explanation": "pag 437",
+          "collapsed": true
+        },
+        {
+          "id": 141,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-18-img-1774441697203-d4wxw1.PNG",
+          "explanation": "pag 438",
+          "collapsed": true
+        },
+        {
+          "id": 142,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-18-img-1774441714287-2tuyw0.PNG",
+          "explanation": "pag 439",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 133
+        },
+        {
+          "type": "image",
+          "id": 134
+        },
+        {
+          "type": "image",
+          "id": 135
+        },
+        {
+          "type": "image",
+          "id": 136
+        },
+        {
+          "type": "image",
+          "id": 137
+        },
+        {
+          "type": "image",
+          "id": 138
+        },
+        {
+          "type": "image",
+          "id": 139
+        },
+        {
+          "type": "image",
+          "id": 140
+        },
+        {
+          "type": "image",
+          "id": 141
+        },
+        {
+          "type": "image",
+          "id": 142
+        },
+        {
+          "type": "question",
+          "id": 25
+        },
+        {
+          "type": "question",
+          "id": 32
+        },
+        {
+          "type": "question",
+          "id": 67
+        },
+        {
+          "type": "question",
+          "id": 88
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Metabolism și nutriție",
+      "questions": [
+        {
+          "id": 17,
+          "type": "question",
+          "question": "În starea metabolică de absorbție:",
+          "answers": [
+            {
+              "text": "nivelul de insulină este scăzut",
+              "correct": false
+            },
+            {
+              "text": "organismul eliberează glucoză din depozitele de glicogen",
+              "correct": false
+            },
+            {
+              "text": "fracția insulină/glucagon este scăzută",
+              "correct": false
+            },
+            {
+              "text": "organismul folosește aminoacizi pentru sinteza de proteine",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 3
+        },
+        {
+          "id": 21,
+          "type": "question",
+          "question": "Pornind de la trei molecule de maltoză, organismul poate obține:",
+          "answers": [
+            {
+              "text": "la finalul întregului proces de respirație celulară, un câștig de 114 molecule de ATP",
+              "correct": false
+            },
+            {
+              "text": "la finalul etapei de glicoliză, un câștig net de 12 molecule de ATP",
+              "correct": true
+            },
+            {
+              "text": "18 molecule de CO2 în urma ciclului Krebs",
+              "correct": false
+            },
+            {
+              "text": "la finalul etapei de glicoliză, 24 de molecule de NADH",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        },
+        {
+          "id": 27,
+          "type": "question",
+          "question": "Alegeți asocierile corecte dintre afecțiunea menționată, cauza potențială a acesteia, consecințele sale clinice și mijloacele terapeutice posibile:",
+          "answers": [
+            {
+              "text": "sindrom Cushing - excesul unor hormoni a căror secreție este reglată de ACTH prin feedback pozitiv - hipertensiune arterială, slăbiciune musculară generalizată, creșterea glicemiei - hormonoterapie",
+              "correct": false
+            },
+            {
+              "text": "mixedem - deficit al unui hormon proteic ce stimulează și maturarea sistemului nervos - bradicardie, lipsă de energie, rată metabolică redusă, exoftalmie - suplimentarea aportului alimntar de iod",
+              "correct": false
+            },
+            {
+              "text": "cetoacidoză diabetică - catabolism lipidic accelerat - respirație cu miros de diluant de lac de unghii - tratamentul diabetului zaharat",
+              "correct": true
+            },
+            {
+              "text": "boala beri-beri - producție scăzută de factor intrinsec de către celulele parietale gastrice - tulburări digestive, atrofie musculară, paralizii - creșterea aportului de alimente cu valoare energetică crescută",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        },
+        {
+          "id": 45,
+          "type": "question",
+          "question": "Un pacient în vârstă de 24 de ani, cunoscut cu diabet zaharat tip I, care de aproximativ două zile a întrerupt tratamentul antidiabetic:",
+          "answers": [
+            {
+              "text": "prezintă creșterea nivelului intracelular de glucoză prin stimularea transportorului membranar de glucoză",
+              "correct": false
+            },
+            {
+              "text": "prezintă o intensificare a catabolismului lipidic",
+              "correct": true
+            },
+            {
+              "text": "poate dezvolta acidoză metabolică din cauza corpilor cetonici acumulați în sânge",
+              "correct": true
+            },
+            {
+              "text": "nu prezintă corpi cetonici în urină",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 80,
+          "type": "question",
+          "question": "Pelagra:",
+          "answers": [
+            {
+              "text": "este cauzată de deficitul unei vitamine liposolubile",
+              "correct": false
+            },
+            {
+              "text": "are ca simptom specific nictalopia",
+              "correct": false
+            },
+            {
+              "text": "asociază deficit de formarea a coenzimei NAD+",
+              "correct": true
+            },
+            {
+              "text": "este cauzată de deficitul de nicotinamidă",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 87,
+          "type": "question",
+          "question": "Rata metabolismului bazal:",
+          "answers": [
+            {
+              "text": "crește sub acțiunea hormonilor tiroxină și triiodotironină",
+              "correct": true
+            },
+            {
+              "text": "este invers proporțională cu dimensiunea corporală",
+              "correct": true
+            },
+            {
+              "text": "este mai mare la sexul feminin comparativ cu cel masculin",
+              "correct": false
+            },
+            {
+              "text": "este mai scăzută la copii comparativ cu adulții",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 143,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-19-img-1774441787221-fctwx0.PNG",
+          "explanation": "pag 454",
+          "collapsed": true
+        },
+        {
+          "id": 144,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-19-img-1774441841032-c06xs6.PNG",
+          "explanation": "pag 457",
+          "collapsed": true
+        },
+        {
+          "id": 145,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-19-img-1774441855029-65ocug.PNG",
+          "explanation": "pag 458",
+          "collapsed": true
+        },
+        {
+          "id": 146,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-19-img-1774441866531-3lifsi.PNG",
+          "explanation": "pag 459",
+          "collapsed": true
+        },
+        {
+          "id": 147,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-19-img-1774441896431-i7v1u0.PNG",
+          "explanation": "pag 460",
+          "collapsed": true
+        },
+        {
+          "id": 148,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-19-img-1774441909159-6rxaol.PNG",
+          "explanation": "pag 462",
+          "collapsed": true
+        },
+        {
+          "id": 149,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-19-img-1774441921778-vii5lm.PNG",
+          "explanation": "pag 463",
+          "collapsed": true
+        },
+        {
+          "id": 150,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-19-img-1774441935985-fc02mh.PNG",
+          "explanation": "pag 464",
+          "collapsed": true
+        },
+        {
+          "id": 151,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-19-img-1774441957875-9ahhw0.PNG",
+          "explanation": "pag 466",
+          "collapsed": true
+        },
+        {
+          "id": 152,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-19-img-1774441971312-l6x3xc.PNG",
+          "explanation": "pag 468",
+          "collapsed": true
+        },
+        {
+          "id": 153,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-19-img-1774441985499-232230.PNG",
+          "explanation": "pag 469",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 143
+        },
+        {
+          "type": "image",
+          "id": 144
+        },
+        {
+          "type": "image",
+          "id": 145
+        },
+        {
+          "type": "image",
+          "id": 146
+        },
+        {
+          "type": "image",
+          "id": 147
+        },
+        {
+          "type": "image",
+          "id": 148
+        },
+        {
+          "type": "image",
+          "id": 149
+        },
+        {
+          "type": "image",
+          "id": 150
+        },
+        {
+          "type": "image",
+          "id": 151
+        },
+        {
+          "type": "image",
+          "id": 152
+        },
+        {
+          "type": "image",
+          "id": 153
+        },
+        {
+          "type": "question",
+          "id": 17
+        },
+        {
+          "type": "question",
+          "id": 21
+        },
+        {
+          "type": "question",
+          "id": 27
+        },
+        {
+          "type": "question",
+          "id": 45
+        },
+        {
+          "type": "question",
+          "id": 80
+        },
+        {
+          "type": "question",
+          "id": 87
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Sistemul urinar",
+      "questions": [
+        {
+          "id": 20,
+          "type": "question",
+          "question": "Referitor la sistemul urinar este adevărat că:",
+          "answers": [
+            {
+              "text": "tubul colector este sediu de acțiune al vasopresinei",
+              "correct": true
+            },
+            {
+              "text": "vezica urinară este tapetată de un epiteliu stratificat cu rol protector",
+              "correct": true
+            },
+            {
+              "text": "tubul contort distal prezintă celule musculare ce asigură transportul urinei prin unde peristaltice",
+              "correct": false
+            },
+            {
+              "text": "glanda bulbouretrală este sediul secreției unui lichid ce va fi eliberat în uretra prostatică",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        },
+        {
+          "id": 34,
+          "type": "question",
+          "question": "Referitor la unele afecțiuni endocrine care influențează funcția renală este adevărat că:",
+          "answers": [
+            {
+              "text": "diabetul insipid este caracterizat prin eliminarea unor cantități mari de urină concentrată",
+              "correct": false
+            },
+            {
+              "text": "diabetul zaharat este caracterizat prin eliminarea de cantități crescute de glucoză prin urină",
+              "correct": true
+            },
+            {
+              "text": "boala Addison este caracterizată printr-o eliminare redusă de potasiu prin urină",
+              "correct": true
+            },
+            {
+              "text": "boala Graves este caracterizată prin ritm cardiac lent, slăbiciune generalizată și filtrare glomerulară redusă",
+              "correct": false
+            },
+            {
+              "text": " niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 84,
+          "type": "question",
+          "question": "În condiții fiziologice, urina umană conține:",
+          "answers": [
+            {
+              "text": "un pigment rezultat prin acțiunea bacteriilor din sânge asupra bilirubinei",
+              "correct": false
+            },
+            {
+              "text": "deșeuri organice precum acidul uric și creatinina",
+              "correct": true
+            },
+            {
+              "text": "un număr ridicat de globule roșii",
+              "correct": false
+            },
+            {
+              "text": "un produs toxic rezultat din metabolismul aminoacizilor",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 90,
+          "type": "question",
+          "question": "La nivelul sistemului urinar:",
+          "answers": [
+            {
+              "text": "gradientul electic generat de reabsorbția sodiului stimulează în mod direct reabsorbția de apă",
+              "correct": false
+            },
+            {
+              "text": "formațiunile care alcătuiesc regiunea externă a rinichiului sunt separate prin coloanele renale",
+              "correct": false
+            },
+            {
+              "text": "ureea trece din ansa Henle în medulara renală și ulterior în tubul colector",
+              "correct": false
+            },
+            {
+              "text": "aldosteronul stimulează reabsorbția de sodiu și apă și secreția de potasiu",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 154,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-20-img-1774442574373-ajemr4.PNG",
+          "explanation": "pag 486",
+          "collapsed": true
+        },
+        {
+          "id": 155,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-20-img-1774442592599-oq5eca.PNG",
+          "explanation": "pag 487",
+          "collapsed": true
+        },
+        {
+          "id": 156,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-20-img-1774442608610-ltflse.PNG",
+          "explanation": "pag 488",
+          "collapsed": true
+        },
+        {
+          "id": 157,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-20-img-1774442624379-c4tpsp.PNG",
+          "explanation": "pag 490",
+          "collapsed": true
+        },
+        {
+          "id": 158,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-20-img-1774442635612-lwm7et.PNG",
+          "explanation": "pag 491",
+          "collapsed": true
+        },
+        {
+          "id": 159,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-20-img-1774442652072-9av5zt.PNG",
+          "explanation": "pag 492",
+          "collapsed": true
+        },
+        {
+          "id": 160,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-20-img-1774442669356-lrois4.PNG",
+          "explanation": "pag 494",
+          "collapsed": true
+        },
+        {
+          "id": 161,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-20-img-1774442680758-n1dxfn.PNG",
+          "explanation": "pag 496",
+          "collapsed": true
+        },
+        {
+          "id": 162,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-20-img-1774442693726-12e1d4.PNG",
+          "explanation": "pag 497",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 154
+        },
+        {
+          "type": "image",
+          "id": 155
+        },
+        {
+          "type": "image",
+          "id": 156
+        },
+        {
+          "type": "image",
+          "id": 157
+        },
+        {
+          "type": "image",
+          "id": 158
+        },
+        {
+          "type": "image",
+          "id": 159
+        },
+        {
+          "type": "image",
+          "id": 160
+        },
+        {
+          "type": "image",
+          "id": 161
+        },
+        {
+          "type": "image",
+          "id": 162
+        },
+        {
+          "type": "question",
+          "id": 20
+        },
+        {
+          "type": "question",
+          "id": 34
+        },
+        {
+          "type": "question",
+          "id": 84
+        },
+        {
+          "type": "question",
+          "id": 90
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Echilibrul hidro-electrolitic și  acido-bazic",
+      "questions": [
+        {
+          "id": 18,
+          "type": "question",
+          "question": "În organismul uman, cantitatea de apă este mai mare:",
+          "answers": [
+            {
+              "text": "în compartimentul lichidian intracelular decât în cel extracelular",
+              "correct": true
+            },
+            {
+              "text": "în plasmă decât în limfă",
+              "correct": true
+            },
+            {
+              "text": "în limfă decât în lichidul interstițial",
+              "correct": false
+            },
+            {
+              "text": "în lichidul transcelular decât în cel intracelular",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 30,
+          "type": "question",
+          "question": "Referitor la echilibrul hidric al organismului este adevărat că:",
+          "answers": [
+            {
+              "text": "în general, cantitatea de apă produsă zilnic din reacții chimice este egală cu pierderile zilnice de apă din organism",
+              "correct": false
+            },
+            {
+              "text": "angiotensina II crește conținutul de apă al organismului prin cel puțin două mecanisme distincte",
+              "correct": true
+            },
+            {
+              "text": "acumularea de apă în exces în spațiul interstițial duce la apariția edemelor",
+              "correct": true
+            },
+            {
+              "text": "prin scăderea presiunii osmotice pe care o induce, tromboza venoasă poate duce la apariția edemelor",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 3
+        },
+        {
+          "id": 59,
+          "type": "question",
+          "question": "Rinichii intervin în reglarea echilibrului acido-bazic al organismului prin intermediul:",
+          "answers": [
+            {
+              "text": "sistemului tampon NH3-NH4+",
+              "correct": true
+            },
+            {
+              "text": "sistemului tampon H2CO3-NaHCO3",
+              "correct": true
+            },
+            {
+              "text": "sistemului tampon H3PO4-Na2HPO4",
+              "correct": false
+            },
+            {
+              "text": "sistemului tampon al proteinelor intracelulare",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 63,
+          "type": "question",
+          "question": "Cu privire la echilibrul acido-bazic al unui student care respiră rapid și profund în cadrul unui atac de panică este adevărat că:",
+          "answers": [
+            {
+              "text": "în acest caz, reglarea pH-ului sanguin poate fi realizată prin eliminarea renală de bicarbonat",
+              "correct": true
+            },
+            {
+              "text": "studentul va prezenta acidoză respiratorie",
+              "correct": false
+            },
+            {
+              "text": "studentul va prezenta alcaloză metabolică",
+              "correct": false
+            },
+            {
+              "text": "pH-ul arterial este de așteptat să fie peste 7,35",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 77,
+          "type": "question",
+          "question": "Inhibarea sistemului renină-angiotensină-aldosteron:",
+          "answers": [
+            {
+              "text": "determină scăderea reabsorbției de apă la nivelul tubilor contort distal și colector",
+              "correct": true
+            },
+            {
+              "text": "determină scăderea concentrației plasmatice de K+ prin favorizarea eliminării acestuia la nivel renal",
+              "correct": false
+            },
+            {
+              "text": "determină scăderea presiunii arteriale",
+              "correct": true
+            },
+            {
+              "text": "stimulează reabsorbția de Na+ la nivelul tubului contort distal",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 95,
+          "type": "question",
+          "question": "Referitor la electroliți este adevărat că:",
+          "answers": [
+            {
+              "text": "cel mai abundent anion din spațiul intracelular participă la formarea nucleotidelor",
+              "correct": true
+            },
+            {
+              "text": "cel mai abundent cation extracelular joacă un rol central în formarea dinților și a oaselor",
+              "correct": false
+            },
+            {
+              "text": "cel mai abundent anion din spațiul extracelular participă la formarea unuia dintre cele mai importante sisteme tampon extracelulare ale organismului",
+              "correct": false
+            },
+            {
+              "text": "aldosteronul participă la reglarea nivelului sanguin al celui mai abunent cation intracelular",
+              "correct": true
+            },
+            {
+              "text": " niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 163,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-21-img-1774442948476-pw7b8z.PNG",
+          "explanation": "pag 511",
+          "collapsed": true
+        },
+        {
+          "id": 164,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-21-img-1774442964297-jiigxa.PNG",
+          "explanation": "pag 511",
+          "collapsed": true
+        },
+        {
+          "id": 165,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-21-img-1774442977726-p71ey2.PNG",
+          "explanation": "pag 513",
+          "collapsed": true
+        },
+        {
+          "id": 166,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-21-img-1774442993387-g3ft1h.PNG",
+          "explanation": "pag 515",
+          "collapsed": true
+        },
+        {
+          "id": 167,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-21-img-1774443005397-eni6eg.PNG",
+          "explanation": "pag 516",
+          "collapsed": true
+        },
+        {
+          "id": 168,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-21-img-1774443022745-ch32hq.PNG",
+          "explanation": "pag 518",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 163
+        },
+        {
+          "type": "image",
+          "id": 164
+        },
+        {
+          "type": "image",
+          "id": 165
+        },
+        {
+          "type": "image",
+          "id": 166
+        },
+        {
+          "type": "image",
+          "id": 167
+        },
+        {
+          "type": "image",
+          "id": 168
+        },
+        {
+          "type": "question",
+          "id": 18
+        },
+        {
+          "type": "question",
+          "id": 30
+        },
+        {
+          "type": "question",
+          "id": 59
+        },
+        {
+          "type": "question",
+          "id": 63
+        },
+        {
+          "type": "question",
+          "id": 77
+        },
+        {
+          "type": "question",
+          "id": 95
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Sistemul reproducător masculin",
+      "questions": [
+        {
+          "id": 12,
+          "type": "question",
+          "question": "Referitor la sistemul reproducător masculin este adevărat că:",
+          "answers": [
+            {
+              "text": "sperma conține și o protează",
+              "correct": true
+            },
+            {
+              "text": "FSH-ul stimulează producția de testosteron din celulele sustentaculare ale testiculului",
+              "correct": false
+            },
+            {
+              "text": "după pubertate, testosteronul influențează dezvoltarea caracterelor sexuale secundare masculine",
+              "correct": true
+            },
+            {
+              "text": "compoziția spermei nu este influențată de contracțiile glandelor anexe",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 2
+        },
+        {
+          "id": 24,
+          "type": "question",
+          "question": "Care dintre următoarele afirmații referitoare la sistemul reproducător masculin este/sunt corectă/corecte?",
+          "answers": [
+            {
+              "text": "lichidul din epididim are caracter acid",
+              "correct": true
+            },
+            {
+              "text": "ampula ductului deferent se găsește lângă epididim",
+              "correct": false
+            },
+            {
+              "text": "celulele sustentaculare produc hormoni sexuali masculini",
+              "correct": false
+            },
+            {
+              "text": "capul spermatozoidului are un nucleu ce conține 23 de perechi de cromozomi",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 36,
+          "type": "question",
+          "question": "Referitor la sistemul reproducător masculin este adevărat că:",
+          "answers": [
+            {
+              "text": "spermatogeneza începe la nivelul stratului cel mai intern de celule germinale din tubii seminiferi",
+              "correct": false
+            },
+            {
+              "text": "între tubii seminiferi se găsesc celule interstițiale",
+              "correct": true
+            },
+            {
+              "text": "rafeul marchează limita dintre cele două compartimente ale scrotului",
+              "correct": true
+            },
+            {
+              "text": "tubii seminiferi fac parte din cordonul spermatic",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 42,
+          "type": "question",
+          "question": "Referitor la sistemul reproducător masculin este adevărat că:",
+          "answers": [
+            {
+              "text": "în lichidul de secreție al veziculei seminale se găsește fructoză",
+              "correct": true
+            },
+            {
+              "text": "ductele deferente se intersectează cu ureterele",
+              "correct": true
+            },
+            {
+              "text": "din rețeaua testiculară spermatozoizii ajung direct în ductul deferent",
+              "correct": false
+            },
+            {
+              "text": "uretra membranoasă trece prin mijlocul prostatei",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 169,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-22-img-1774443392746-ebhtdo.PNG",
+          "explanation": "pag 530",
+          "collapsed": true
+        },
+        {
+          "id": 170,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-22-img-1774443405439-lfa3xk.PNG",
+          "explanation": "pag 533",
+          "collapsed": true
+        },
+        {
+          "id": 171,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-22-img-1774443419463-krn1j6.PNG",
+          "explanation": "pag 533",
+          "collapsed": true
+        },
+        {
+          "id": 172,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-22-img-1774443437759-cgw0ma.PNG",
+          "explanation": "pag 534",
+          "collapsed": true
+        },
+        {
+          "id": 173,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-22-img-1774443449428-687ybw.PNG",
+          "explanation": "pag 535",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 169
+        },
+        {
+          "type": "image",
+          "id": 170
+        },
+        {
+          "type": "image",
+          "id": 171
+        },
+        {
+          "type": "image",
+          "id": 172
+        },
+        {
+          "type": "image",
+          "id": 173
+        },
+        {
+          "type": "question",
+          "id": 12
+        },
+        {
+          "type": "question",
+          "id": 24
+        },
+        {
+          "type": "question",
+          "id": 36
+        },
+        {
+          "type": "question",
+          "id": 42
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Sistemul reproducător feminin",
+      "questions": [
+        {
+          "id": 15,
+          "type": "question",
+          "question": "Spre deosebire de bărbați, la femei:",
+          "answers": [
+            {
+              "text": "cavitatea pelviană este mai largă și mai lungă",
+              "correct": false
+            },
+            {
+              "text": "conținutul de apă al organismului este mai crescut",
+              "correct": false
+            },
+            {
+              "text": "cartilajul cricoid este mai vizibil",
+              "correct": false
+            },
+            {
+              "text": "rata de filtrare glomerulară este cu circa 16% mai redusă",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 46,
+          "type": "question",
+          "question": "Referitor la menstruație este adevărat că:",
+          "answers": [
+            {
+              "text": "este urmată de faza proliferativă a ciclului menstrual",
+              "correct": true
+            },
+            {
+              "text": "în această fază se elimină stratul bazal al endometrului, sânge și mucus",
+              "correct": false
+            },
+            {
+              "text": "perioada în care ciclurile menstruale încetează se numește menarhă",
+              "correct": false
+            },
+            {
+              "text": "este precedată de dilatația vaselor sanguine endometriale",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 49,
+          "type": "question",
+          "question": "Referitor la sistemul reproducător feminin este adevărat că:",
+          "answers": [
+            {
+              "text": "foliculii primari se produc până la pubertate",
+              "correct": false
+            },
+            {
+              "text": "după ovulație, celulele foliculare reziduale formează, sub controlul LH, o structură glandulară numită corp galben",
+              "correct": true
+            },
+            {
+              "text": "transformarea corpului galben în corp alb se asociază cu o reducere a nivelului sanguin de estrogeni",
+              "correct": true
+            },
+            {
+              "text": "la vârsta pubertății, la nivelul hipofizei se secretă hormonul eliberator de gonadotropină",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 50,
+          "type": "question",
+          "question": "Referitor la glanda mamară este adevărat că:",
+          "answers": [
+            {
+              "text": "este alcătuită din celule care se dezintegrează complet pentru a-și elibera produsul de secreție",
+              "correct": false
+            },
+            {
+              "text": "este o glandă exocrină de tip apocrin, formată din mai mulți lobi",
+              "correct": true
+            },
+            {
+              "text": "stimulată prin actul suptului, secreția de lapte se produce continuu",
+              "correct": true
+            },
+            {
+              "text": "ejecția laptelui este controlată de prolactină, secretată la nivelul adenohipofizei",
+              "correct": false
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        },
+        {
+          "id": 83,
+          "type": "question",
+          "question": "Referitor la trompele uterine este adevărat că:",
+          "answers": [
+            {
+              "text": "transportul ovulului este facilitat de contracția mușchilor netezi din peretele trompelor uterine",
+              "correct": true
+            },
+            {
+              "text": "segmentul scurt al trompei uterine, ce se deschide în cavitatea uterină, se numește infundibul",
+              "correct": false
+            },
+            {
+              "text": "în apropierea ovarului, capătul trompei uterine denumit ampulă are formă de pâlnie",
+              "correct": false
+            },
+            {
+              "text": "fecundația are loc în trompele uterine, fiind influențată pozitiv de eliberarea enzimelor din acrozomi",
+              "correct": true
+            },
+            {
+              "text": "niciun răspuns corect",
+              "correct": false
+            }
+          ],
+          "explanation": "Târgu Mureș - admitere iulie 2025",
+          "collapsed": true,
+          "weight": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 174,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-23-img-1774443856022-y73u8z.PNG",
+          "explanation": "pag 550",
+          "collapsed": true
+        },
+        {
+          "id": 175,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-23-img-1774443874294-5ngs7e.PNG",
+          "explanation": "pag 551",
+          "collapsed": true
+        },
+        {
+          "id": 176,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-23-img-1774443887132-0e17he.PNG",
+          "explanation": "pag 553",
+          "collapsed": true
+        },
+        {
+          "id": 177,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-23-img-1774443897910-87x4kf.PNG",
+          "explanation": "pag 554",
+          "collapsed": true
+        },
+        {
+          "id": 178,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-23-img-1774443907841-op2foy.PNG",
+          "explanation": "pag 555",
+          "collapsed": true
+        },
+        {
+          "id": 179,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-23-img-1774443921689-6qeshf.PNG",
+          "explanation": "pag 557",
+          "collapsed": true
+        },
+        {
+          "id": 180,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-23-img-1774443938614-72pduk.PNG",
+          "explanation": "pag 559",
+          "collapsed": true
+        },
+        {
+          "id": 181,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-23-img-1774443952341-lgfulo.PNG",
+          "explanation": "pag 559",
+          "collapsed": true
+        },
+        {
+          "id": 182,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-23-img-1774443975316-3qw9bh.PNG",
+          "explanation": "pag 560",
+          "collapsed": true
+        },
+        {
+          "id": 183,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-23-img-1774443992196-xsili8.PNG",
+          "explanation": "pag 561",
+          "collapsed": true
+        },
+        {
+          "id": 184,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-23-img-1774444010480-xrbf31.PNG",
+          "explanation": "pag 563",
+          "collapsed": true
+        },
+        {
+          "id": 185,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-23-img-1774444026130-3ysg54.PNG",
+          "explanation": "pag 563",
+          "collapsed": true
+        },
+        {
+          "id": 186,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-23-img-1774444041986-ac0hwu.PNG",
+          "explanation": "pag 565",
+          "collapsed": true
+        },
+        {
+          "id": 187,
+          "type": "image",
+          "image": "",
+          "imagePath": "/images/chapter-23-img-1774444055293-rofdf3.PNG",
+          "explanation": "pag 566",
+          "collapsed": true
+        }
+      ],
+      "order": [
+        {
+          "type": "image",
+          "id": 174
+        },
+        {
+          "type": "image",
+          "id": 175
+        },
+        {
+          "type": "image",
+          "id": 176
+        },
+        {
+          "type": "image",
+          "id": 177
+        },
+        {
+          "type": "image",
+          "id": 178
+        },
+        {
+          "type": "image",
+          "id": 179
+        },
+        {
+          "type": "image",
+          "id": 180
+        },
+        {
+          "type": "image",
+          "id": 181
+        },
+        {
+          "type": "image",
+          "id": 182
+        },
+        {
+          "type": "image",
+          "id": 183
+        },
+        {
+          "type": "image",
+          "id": 184
+        },
+        {
+          "type": "image",
+          "id": 185
+        },
+        {
+          "type": "image",
+          "id": 186
+        },
+        {
+          "type": "image",
+          "id": 187
+        },
+        {
+          "type": "question",
+          "id": 15
+        },
+        {
+          "type": "question",
+          "id": 46
+        },
+        {
+          "type": "question",
+          "id": 49
+        },
+        {
+          "type": "question",
+          "id": 50
+        },
+        {
+          "type": "question",
+          "id": 83
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Medicina</title>
+    <link rel="icon" href="icon.png" type="image/png">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+
+    <aside id="sidebar" aria-label="Sidebar navigation">
+        <button id="button-toggle-sidebar" type="button" aria-label="Toggle sidebar"></button>
+
+        <nav>
+            <div class="sidebar-section sidebar-section-top">
+                <ul>
+                    <li><button id="button-enter-editor" type="button">EDITOR</button></li>
+                    <li><button id="button-enter-images" type="button">IMAGES</button></li>
+                    <li><button id="button-enter-practice" type="button">PRACTICE</button></li>
+                    <li><button id="button-enter-test" type="button">TEST</button></li>
+                </ul>
+            </div>
+
+            <div class="sidebar-section sidebar-section-middle">
+                <ul id="chapter-list"></ul>
+
+                <div class="chapter-actions">
+                    <button id="button-toggle-all-chapters" type="button">deselect all</button>
+                    <button id="button-add-chapter" type="button">+ add chapter</button>
+                </div>
+            </div>
+
+        
+            <div class="sidebar-section sidebar-section-bottom">
+                <ul>
+                    <li>
+                        <span>QUESTIONS</span>
+                        <input id="input-questions" type="text" inputmode="numeric">
+                    </li>
+                    <li>
+                        <span>TIME</span>
+                        <input id="input-time" type="text" inputmode="numeric">
+                    </li>
+                    <li>
+                        <span>ANSWERS</span>
+                        <label class="toggle-switch">
+                            <input id="input-test-answers" type="checkbox" aria-label="Answers toggle">
+                            <span class="toggle-slider"></span>
+                        </label>
+                    </li>
+                </ul>
+
+                <div id="test-sidebar-progress" hidden>0/0</div>
+
+                <button id="button-start-test" type="button">START</button>
+            </div>
+        </nav>
+    </aside>
+
+    <main>
+        <section id="view-editor" class="view is-active" aria-labelledby="heading-editor">
+            <h1 id="heading-editor">EDITOR</h1>
+
+            <div class="editor-panel">
+                <div class="select-wrapper">
+                    <select id="editor-chapter-select" aria-label="Select chapter"></select>
+                </div>
+
+                <button id="button-add-question" class="add-button" type="button">+ add question</button>
+                <button id="button-add-image" type="button">+ add image</button>
+                <button id="button-toggle-collapse" type="button">collapse all</button>
+
+                <div id="editor-items"></div>
+            </div>
+        </section>
+
+        <section id="view-images" class="view" aria-labelledby="heading-images" hidden>
+            <h1 id="heading-images">IMAGES</h1>
+
+            <div class="images-panel">
+                <div class="images-inner">
+                    <img id="images-current" src="" alt="Random chapter image">
+                </div>
+                <button id="images-next" type="button">NEXT</button>
+            </div>
+
+            <div id="explanation-panel">
+                <button id="images-toggle-explanation" type="button">
+                    <span class="line"></span>
+                    <span class="toggle-text">Show More</span>
+                    <span class="line"></span>
+                </button>
+
+                <div id="images-explanation"></div>
+            </div>
+        </section>
+
+        <section id="view-practice" class="view" aria-labelledby="heading-practice" hidden>
+            <h1 id="heading-practice">PRACTICE</h1>
+
+            <div id="practice-container">
+                <div id="practice-panel">
+                    <div id="practice-question-box">
+                        <div id="practice-question"></div>
+                        <div id="practice-answers"></div>
+                    </div>
+
+                    <button id="practice-submit" class="practice-submit" type="button">SUBMIT</button>
+                </div>
+
+                <div id="practice-explanation-panel" hidden>
+                    <button id="practice-toggle-explanation" type="button">
+                        <span class="line"></span>
+                        <span class="toggle-text">Show More</span>
+                        <span class="line"></span>
+                    </button>
+
+                    <div id="practice-explanation"></div>
+                </div>
+            </div>
+        </section>
+
+        <section id="view-test" class="view" aria-labelledby="heading-test" hidden>
+            <h1 id="heading-test">TEST</h1>
+
+            <div id="test-container">
+                <!--
+                    Top meta row:
+                    - timer is always shown during a running test
+                    - score is shown only when the test was started with answers enabled
+                -->
+                <div id="test-meta">
+                    <div id="test-timer">30:00</div>
+                    <div id="test-score" hidden><span id="test-score-correct">0</span>/<span id="test-score-total">0</span></div>
+                </div>
+
+                <div id="test-panel">
+                    <div id="test-question-box">
+                        <div id="test-question"></div>
+                        <div id="test-answers"></div>
+                    </div>
+
+                    <button id="test-submit" class="practice-submit" type="button">SUBMIT</button>
+                </div>
+
+                <div id="test-explanation-panel" hidden>
+                    <button id="test-toggle-explanation" type="button">
+                        <span class="line"></span>
+                        <span class="toggle-text">Show More</span>
+                        <span class="line"></span>
+                    </button>
+
+                    <div id="test-explanation"></div>
+                </div>
+
+                <div id="test-result" hidden></div>
+                <div id="test-review" hidden></div>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
